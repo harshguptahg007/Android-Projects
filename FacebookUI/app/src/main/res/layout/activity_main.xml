@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.harshgupta.facebookui.MainActivity"
+    android:background="#25c">
+
+    <TextView
+        android:id="@+id/facebooktextview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="facebook"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:textAppearance="?android:textAppearanceLarge"
+        android:textColor="#fff"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"/>
+
+    <TextView
+        android:id="@+id/emailtextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Email:"
+        android:padding="2dp"
+        android:textColor="#fff"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@id/facebooktextview"
+        android:textAppearance="?android:textAppearanceMedium"
+        android:layout_marginLeft="15dp"/>
+
+    <EditText
+        android:id="@+id/emailedittext"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#fff"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@id/emailtextView"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"/>
+
+    <TextView
+        android:id="@+id/passwordtextview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Password:"
+        android:padding="2dp"
+        android:textAppearance="?android:textAppearanceMedium"
+        android:textColor="#fff"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@id/emailedittext"
+        android:layout_marginLeft="15dp"/>
+
+    <EditText
+        android:id="@+id/passwordedittext"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#fff"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@id/passwordtextview"
+        android:inputType="textPassword"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"/>
+
+    <CheckBox
+        android:id="@+id/checkBox"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/passwordedittext"
+        android:layout_below="@+id/passwordedittext"
+        android:checked="true"
+        android:text="Save Login"
+        android:textColor="#fff"
+        android:textAppearance="?android:textAppearanceMedium"/>
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Log in"
+        android:layout_below="@id/checkBox"
+        android:layout_marginLeft="15dp"
+        android:onClick="doSomething"/>
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Cancel"
+        android:layout_below="@id/checkBox"
+        android:layout_toRightOf="@id/button1"
+        android:layout_marginLeft="15dp"
+        android:onClick="doSomething"/>
+
+    <TextView
+        android:id="@+id/signup"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Need an account?\nSign up using your phone"
+        android:textColor="#fff"
+        android:gravity="center"
+        android:layout_marginBottom="20dp"
+        android:textAppearance="?android:textAppearanceMedium"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"/>
+
+</RelativeLayout>
