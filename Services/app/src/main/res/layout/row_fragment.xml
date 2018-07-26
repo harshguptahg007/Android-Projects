@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/fragmentNumber"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#d3d3d3"
+        android:textAlignment="center"
+        android:text="56"
+        android:textStyle="bold|italic"
+        android:layout_margin="8dp"
+        android:padding="5dp"
+        android:textAppearance="?android:attr/textAppearanceMedium"/>
+
+</LinearLayout>
