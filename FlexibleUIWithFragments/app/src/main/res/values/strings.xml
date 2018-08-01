@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">FlexibleUIWithFragments</string>
+    
+    <string-array name="titles">
+        <item>Activities</item>
+        <item>Services</item>
+        <item>Content Providers</item>
+        <item>Intent and Intent Filters</item>
+    </string-array>
+
+    <string-array name="descriptions">
+        <item>Activity is a Java code that supports a screen or UI. In other words, building block of the user interface is the activity. </item>
+        <item>A service is a component that runs in the background to perform long-running operations without needing to interact with the user and it works even if application is destroyed. </item>
+        <item>A content provider manages access to a central repository of data. A provider is part of an Android application, which often provides its own UI for working with the data.</item>
+        <item>An intent filter specifies the types of intents to which an activity, service, or broadcast receiver can respond to by declaring the capabilities of a component.</item>
+    </string-array>
+
+</resources>
