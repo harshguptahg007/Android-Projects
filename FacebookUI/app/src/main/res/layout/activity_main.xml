@@ -5,107 +5,100 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.example.harshgupta.facebookui.MainActivity"
+    tools:context=".MainActivity"
     android:background="#25c">
 
     <TextView
-        android:id="@+id/facebooktextview"
+        android:id="@+id/facebookTextView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="facebook"
-        android:textSize="30sp"
-        android:textStyle="bold"
-        android:gravity="center"
-        android:textAppearance="?android:textAppearanceLarge"
-        android:textColor="#fff"
+        android:layout_alignParentTop="true"
         android:layout_alignParentLeft="true"
         android:layout_alignParentRight="true"
-        android:layout_alignParentTop="true"/>
+        android:text="facebook"
+        android:textColor="#fff"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        android:gravity="center"/>
 
     <TextView
-        android:id="@+id/emailtextView"
+        android:id="@+id/emailTextView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Email:"
-        android:padding="2dp"
         android:textColor="#fff"
-        android:layout_alignParentLeft="true"
-        android:layout_below="@id/facebooktextview"
-        android:textAppearance="?android:textAppearanceMedium"
-        android:layout_marginLeft="15dp"/>
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_below="@id/facebookTextView"
+        android:textSize="20sp"
+        android:padding="2dp"
+        android:layout_alignParentLeft="true"/>
 
     <EditText
-        android:id="@+id/emailedittext"
-        android:layout_width="match_parent"
+        android:id="@+id/emailEditText"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:hint="username@abc.com"
+        android:inputType="text"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_below="@id/emailTextView"
         android:background="#fff"
         android:layout_alignParentLeft="true"
-        android:layout_below="@id/emailtextView"
-        android:layout_marginLeft="15dp"
-        android:layout_marginRight="15dp"/>
+        android:layout_alignParentRight="true"/>
 
     <TextView
-        android:id="@+id/passwordtextview"
+        android:id="@+id/passwordTextView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Password:"
-        android:padding="2dp"
-        android:textAppearance="?android:textAppearanceMedium"
         android:textColor="#fff"
-        android:layout_alignParentLeft="true"
-        android:layout_below="@id/emailedittext"
-        android:layout_marginLeft="15dp"/>
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_below="@id/emailEditText"
+        android:textSize="20sp"
+        android:padding="2dp"
+        android:layout_alignParentLeft="true"/>
 
     <EditText
-        android:id="@+id/passwordedittext"
-        android:layout_width="match_parent"
+        android:id="@+id/passwordEditText"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:hint="*******"
         android:background="#fff"
-        android:layout_alignParentLeft="true"
-        android:layout_below="@id/passwordtextview"
         android:inputType="textPassword"
-        android:layout_marginLeft="15dp"
-        android:layout_marginRight="15dp"/>
-
-    <CheckBox
-        android:id="@+id/checkBox"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_alignLeft="@+id/passwordedittext"
-        android:layout_below="@+id/passwordedittext"
-        android:checked="true"
-        android:text="Save Login"
-        android:textColor="#fff"
-        android:textAppearance="?android:textAppearanceMedium"/>
-    <Button
-        android:id="@+id/button1"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Log in"
-        android:layout_below="@id/checkBox"
-        android:layout_marginLeft="15dp"
-        android:onClick="doSomething"/>
-    <Button
-        android:id="@+id/button2"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Cancel"
-        android:layout_below="@id/checkBox"
-        android:layout_toRightOf="@id/button1"
-        android:layout_marginLeft="15dp"
-        android:onClick="doSomething"/>
-
-    <TextView
-        android:id="@+id/signup"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Need an account?\nSign up using your phone"
-        android:textColor="#fff"
-        android:gravity="center"
-        android:layout_marginBottom="20dp"
-        android:textAppearance="?android:textAppearanceMedium"
-        android:layout_alignParentBottom="true"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_below="@id/passwordTextView"
         android:layout_alignParentLeft="true"
         android:layout_alignParentRight="true"/>
+
+    <CheckBox
+        android:id="@+id/checkbox1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/passwordEditText"
+        android:layout_alignParentLeft="true"
+        android:checked="true"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:textColor="#fff"
+        android:textSize="20sp"
+        android:text="Save Login"/>
+
+    <TextView
+        android:id="@+id/signUpTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginBottom="20dp"
+        android:textSize="20sp"
+        android:gravity="center"
+        android:text="Need an account? \n Sign up using your phone"
+        android:textColor="#fff"/>
 
 </RelativeLayout>
