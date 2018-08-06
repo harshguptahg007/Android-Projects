@@ -1,0 +1,4 @@
+#Tue Aug 07 00:30:15 IST 2018
+base.0=/media/harsh/New Volume/AndroidProjects/ViewPager/app/build/intermediates/transforms/dexMerger/debug/1
+path.0=classes.dex
+renamed.0=classes.dex
