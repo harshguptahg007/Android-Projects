@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--this layout will contain the actual layout of the slider-->
+<!--you can have different types of ui for different slides but if you want to have
+the same ui then you can have only one layout-->
+
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="80dp"
+        android:src="@drawable/eat_icon" />
+
+    <TextView
+        android:id="@+id/headingTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="HEADING"
+        android:layout_below="@id/imageView"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:textColor="@color/colorWhite"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="20dp"/>
+
+    <TextView
+        android:id="@+id/descriptionTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="HEADING"
+        android:layout_below="@id/headingTextView"
+        android:textSize="12sp"
+        android:textColor="#aaaaaa"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="20dp"
+        android:padding="20dp"/>
+
+</RelativeLayout>
