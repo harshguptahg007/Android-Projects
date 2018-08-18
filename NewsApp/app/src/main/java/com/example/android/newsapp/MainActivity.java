@@ -4,17 +4,22 @@ import android.app.LoaderManager;
 import android.content.Context;
 import android.content.Intent;
 import android.content.Loader;
+import android.content.SharedPreferences;
 import android.net.ConnectivityManager;
 import android.net.NetworkInfo;
 import android.net.Uri;
+import android.preference.PreferenceManager;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 import android.util.Log;
+import android.view.Menu;
+import android.view.MenuItem;
 import android.view.View;
 import android.widget.ProgressBar;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -25,8 +30,9 @@ public class MainActivity extends AppCompatActivity
 
     private static final String LOG_TAG = MainActivity.class.getName();
 
-    private static final String NEWS_URL =
+    private static String NEWS_URL =
             "https://newsapi.org/v2/top-headlines?country=us&category=business&apiKey=17a2c3a3efeb4e16b303722db9522c80";
+    private static final  String API_KEY = "&apiKey=17a2c3a3efeb4e16b303722db9522c80";
 
     private CustomAdapter adapter;
 
@@ -83,11 +89,40 @@ public class MainActivity extends AppCompatActivity
     @Override
     public Loader<List<News>> onCreateLoader(int id, Bundle args) {
 
+        //getting the value of the category from the shared preference
+        SharedPreferences sharedPrefs = PreferenceManager.getDefaultSharedPreferences(this);
+        String chooseCategory = sharedPrefs.getString
+                (getString(R.string.settings_choose_category_key),"Top Business News");
+
+        switch(chooseCategory){
+            case "Top Business Headlines" :
+
+                NEWS_URL = "https://newsapi.org/v2/top-headlines?country=us&category=business&apiKey=17a2c3a3efeb4e16b303722db9522c80";
+                break;
+
+            case "BitCoin" :
+
+                NEWS_URL = "https://newsapi.org/v2/everything?q=bitcoin&sortBy=publishedAt&apiKey=17a2c3a3efeb4e16b303722db9522c80";
+                break;
+
+            case "Top Headlines from TechCrunch" :
+
+                NEWS_URL = "https://newsapi.org/v2/top-headlines?sources=techcrunch&apiKey=17a2c3a3efeb4e16b303722db9522c80";
+                break;
+
+            case "Topics Related Apple" :
+
+                NEWS_URL = "https://newsapi.org/v2/everything?q=apple&from=2018-08-17&to=2018-08-17&sortBy=popularity&apiKey=17a2c3a3efeb4e16b303722db9522c80";
+                break;
+
+            case "Wall Street Journal" :
+
+                NEWS_URL = "https://newsapi.org/v2/everything?domains=wsj.com&apiKey=17a2c3a3efeb4e16b303722db9522c80";
+                break;
+        }
+
         Uri baseUri = Uri.parse(NEWS_URL);
         Uri.Builder uriBuilder = baseUri.buildUpon();
-
-        //uriBuilder.appendQueryParameter("format", "geojson");
-        uriBuilder.appendQueryParameter("limit", "10");
 
         return new NewsLoader(this, uriBuilder.toString());
     }
@@ -99,20 +134,15 @@ public class MainActivity extends AppCompatActivity
 
         adapter.clear();
 
-        // If there is a valid list of Earthquakes, then add them to the adapter's
-        // data set. This will trigger the ListView to update.
+        // If there is a valid list of News, then add them to the adapter's
+        // data set. This will trigger the RecyclerView to update.
         if (data != null && !data.isEmpty()) {
 
-            //Log.i("VIVZ",data.size()+"");
             adapter = new CustomAdapter(this, data, new CustomItemClickListener() {
                 @Override
                 public void onItemClick(View v, int position) {
-                    //Log.d(LOG_TAG,"clicked position : " + position);
-                    News currentNews = data.get(position);
 
-//                    Intent in = new Intent(getApplicationContext(), NewsDetailView.class);
-//                    in.putExtra("URL", currentNews.getUrl());
-//                    startActivity(in);
+                    News currentNews = data.get(position);
 
                     // Convert the String URL into a URI object (to pass into the Intent constructor)
                     Uri earthquakeUri = Uri.parse(currentNews.getUrl());
@@ -139,5 +169,24 @@ public class MainActivity extends AppCompatActivity
     public void onLoaderReset(Loader<List<News>> loader) {
 
         adapter.clear();
+    }
+
+    @Override
+    public boolean onCreateOptionsMenu(Menu menu) {
+        getMenuInflater().inflate(R.menu.menu_main,menu);
+        return true;
+    }
+
+    @Override
+    public boolean onOptionsItemSelected(MenuItem item) {
+        int id=  item.getItemId();
+
+        if (id==R.id.choose_topic){
+            Intent in = new Intent(this,SettingsActivity.class);
+            startActivity(in);
+            return true;
+        }
+
+        return super.onOptionsItemSelected(item);
     }
 }

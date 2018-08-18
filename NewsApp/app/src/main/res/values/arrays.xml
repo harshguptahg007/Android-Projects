@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="settings_order_by_label">
+        <item>Top Business Headlines</item>
+        <item>BitCoin</item>
+        <item>Top Headlines from TechCrunch</item>
+        <item>Topics Related Apple</item>
+        <item>Wall Street Journal</item>
+    </string-array>
+
+    <string-array name="settings_order_by_values">
+        <item>Top Business Headlines</item>
+        <item>BitCoin</item>
+        <item>Top Headlines from TechCrunch</item>
+        <item>Topics Related Apple</item>
+        <item>Wall Street Journal</item>
+    </string-array>
+
+</resources>

@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">NewsApp</string>
+
+    <string name="settings_choose_category_by_default">@string/settings_order_by_daily_business_news</string>
+
+    <string name="settings_order_by_daily_business_news">Daily Business News</string>
+
+    <string name="settings_choose_category_key">choose_category</string>
+    <string name="settings_choose_category_label">Choose Category</string>
 </resources>

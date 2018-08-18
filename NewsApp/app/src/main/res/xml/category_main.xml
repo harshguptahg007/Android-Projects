@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:title="Choose Category">
+
+    <ListPreference
+        android:defaultValue="@string/settings_choose_category_by_default"
+        android:entries="@array/settings_order_by_label"
+        android:entryValues="@array/settings_order_by_values"
+        android:title="@string/settings_choose_category_label"
+        android:key="@string/settings_choose_category_key"/>
+
+</PreferenceScreen>
