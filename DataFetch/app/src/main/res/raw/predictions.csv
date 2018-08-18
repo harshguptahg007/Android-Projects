@@ -1,0 +1,399 @@
+name,student_no,branch,predicted_marks,predicted_drop,personality,recommended_course_1,recommended_course_2,recommended_course_3,recommended_course_4,recommended_course_5
+AAKASH GIRI GOSWAMI,1521028,ME,55.60855364,0,ISTJ,JOB in Mechanical Industry,Startup,BSc,Different Undergraduate Course,Mtech in fluidics/ Hydraulics
+ABHINATH SHUKLA,1540104,ME,71.15673569,0,ENFJ,MSc in Mineral Science,Startup,Mtech in Design engineering,Govt. Job and PSU,Mtech in Manufacturing engineering
+ABHISHEK ATREY,1540117,ME,68.18096185,0,ESTP,Startup,Mtech in Manufacturing engineering,JOB in Software Industry,MSc in Mineral Science,Mtech in fluidics/ Hydraulics
+ABHISHEK DUBEY,1540134,ME,78.35403372,0,ENTP,Mtech in fluidics/ Hydraulics,Mtech in Design engineering,MSc in Mineral Science,MBA,Govt. Job and PSU
+ABHISHEK DWIVEDI,1540135,ME,66.93938511,0,ESFP,Mtech in Manufacturing engineering,Startup,MBA,MSc in Mineral Science,Govt. Job and PSU
+ABHISHEK MANDAL,1540006,ME,79.77395701,0,ENTJ,Mtech in Design engineering,MBA,Mtech in Manufacturing engineering,Mtech in fluidics/ Hydraulics,Govt. Job and PSU
+ABHISHEK S PUJARI,1540074,ME,51.04988334,0,INFP,Startup,Different Undergraduate Course,JOB in Mechanical Industry,Mtech in fluidics/ Hydraulics,BSc
+ABHISHEK SHARMA,1540041,ME,77.35564726,0,ESFJ,Mtech in fluidics/ Hydraulics,Mtech in Design engineering,Mtech in Manufacturing engineering,Govt. Job and PSU,MSc in Mineral Science
+ABHISHEK  TOMAR,1540016,ME,77.56065581,0,INTP,Mtech in fluidics/ Hydraulics,MBA,Govt. Job and PSU,MSc in Mineral Science,JOB in Mechanical Industry
+ADITYA GUPTA,1540136,CSE,82.38033503,0,ENTJ,JOB in Software Industry,MBA,Govt. Job and PSU,Mtech in Artificial Intelligence,Startup
+ADITYA PRATAP,1540054,ME,64.89277482,0,ENFJ,Mtech in Manufacturing engineering,Mtech in fluidics/ Hydraulics,MSc in Mineral Science,Mtech in Design engineering,JOB in Mechanical Industry
+AJAY KUMAR MAURYA,1540047,ME,81.04574664,0,ESFJ,MBA,Mtech in fluidics/ Hydraulics,Mtech in Manufacturing engineering,JOB in Mechanical Industry,Mtech in Design engineering
+AMAN SONI,1540114,ME,81.72163481,0,INTJ,Mtech in fluidics/ Hydraulics,MSc in Mineral Science,Mtech in Manufacturing engineering,Startup,JOB in Mechanical Industry
+AMIT PAL,1540030,ME,59.35035943,0,INFJ,MSc in Mineral Science,Startup,Mtech in fluidics/ Hydraulics,JOB in Mechanical Industry,Mtech in Manufacturing engineering
+AMIT SINGH,1540088,ME,51.92042786,0,ISFP,Startup,BSc,JOB in Mechanical Industry,Different Undergraduate Course,Mtech in fluidics/ Hydraulics
+Aniket Agrawal,1540141,ME,84.92538668,0,INFP,Startup,JOB in Mechanical Industry,Mtech in Manufacturing engineering,Mtech in fluidics/ Hydraulics,MBA
+ANKIT KUMAR VERMA,1540042,ME,73.79162157,0,INFP,MBA,Mtech in fluidics/ Hydraulics,Govt. Job and PSU,Mtech in Design engineering,Startup
+ANKUSH RAWAT,1521040,ME,67.76650121,0,INTJ,Startup,Govt. Job and PSU,Mtech in Manufacturing engineering,MSc in Mineral Science,MBA
+ANURADHA SINGH,1540034,ME,66.79840878,0,ISTJ,JOB in Software Industry,Startup,Mtech in Design engineering,Mtech in Manufacturing engineering,Govt. Job and PSU
+APOORV SHUKLA,1540108,ME,57.9664164,0,INFJ,Mtech in fluidics/ Hydraulics,MSc in Mineral Science,Mtech in Manufacturing engineering,Startup,JOB in Mechanical Industry
+ARUN KUMAR SINGH,1540115,ME,73.31682955,0,ENFP,MBA,Govt. Job and PSU,Startup,MSc in Mineral Science,Mtech in fluidics/ Hydraulics
+Ashu Kumar,1540103,ME,78.19221623,0,ENTJ,JOB in Mechanical Industry,Govt. Job and PSU,MBA,Mtech in fluidics/ Hydraulics,MSc in Mineral Science
+ASHUTOSH TITORIA,1540056,ME,58.09146039,0,ESTP,MBA,MSc in Mineral Science,Mtech in Manufacturing engineering,JOB in Mechanical Industry,Mtech in fluidics/ Hydraulics
+ASHWANI KUMAR,1540048,ME,74.62375417,0,INTP,Govt. Job and PSU,Mtech in fluidics/ Hydraulics,MBA,MSc in Mineral Science,Startup
+ASHWIN KUMAR  PANDEY,1540101,ME,74.82319092,0,ESFP,MSc in Mineral Science,Govt. Job and PSU,Mtech in fluidics/ Hydraulics,Mtech in Design engineering,Startup
+ATMA YADAV,1540130,ME,82.2080306,0,ENTP,MBA,Mtech in Manufacturing engineering,MSc in Mineral Science,Mtech in Design engineering,Mtech in fluidics/ Hydraulics
+ATUL  SHARMA,1540055,ME,73.51323395,0,ENTP,Govt. Job and PSU,MBA,MSc in Mineral Science,Mtech in Design engineering,Startup
+AYUSH SACHAN,1540148,ME,65.05551191,0,ENFP,Mtech in fluidics/ Hydraulics,MBA,Mtech in Design engineering,JOB in Mechanical Industry,Mtech in Manufacturing engineering
+CHETAN BHARDWAJ,1540113,ME,65.51523508,0,ISTJ,Mtech in fluidics/ Hydraulics,JOB in Mechanical Industry,Mtech in Design engineering,Startup,Mtech in Manufacturing engineering
+DIVYANSHU SINGH,1540151,ME,49.69792245,0,ISTJ,Job,JOB in Mechanical Industry,Startup,Different Undergraduate Course,BSc
+Durga Shanker Sharma,1540152,ME,62.8170335,0,INTP,Mtech in Manufacturing engineering,Mtech in fluidics/ Hydraulics,MSc in Mineral Science,JOB in Mechanical Industry,Startup
+GAURAV KUMAR SRIVASTAV,1540004,ME,78.11034504,0,ENFP,MBA,Mtech in Manufacturing engineering,Govt. Job and PSU,MSc in Mineral Science,Mtech in fluidics/ Hydraulics
+GAURAV SHISHODIA,1540153,ME,76.45420422,0,ENTJ,Startup,Govt. Job and PSU,Mtech in Manufacturing engineering,MSc in Mineral Science,MBA
+GAURAV SINGH,1540066,ME,61.94637927,0,INTP,Mtech in Manufacturing engineering,JOB in Mechanical Industry,MSc in Mineral Science,Mtech in fluidics/ Hydraulics,Mtech in Design engineering
+HARSH KUMAR TIWARI,1540154,ME,79.87061492,0,INFP,Govt. Job and PSU,MBA,Mtech in fluidics/ Hydraulics,Mtech in Design engineering,JOB in Mechanical Industry
+HARSHITA MISHRA,1540121,ME,80.39309202,0,INFP,Mtech in fluidics/ Hydraulics,Govt. Job and PSU,Mtech in Design engineering,MBA,JOB in Software Industry
+HEMANT KUMAR,1540046,ME,62.13101825,0,ENFP,Mtech in Manufacturing engineering,Mtech in fluidics/ Hydraulics,JOB in Mechanical Industry,MSc in Mineral Science,Mtech in Design engineering
+INDRAJEET  YADAV,1540078,ME,71.9848455,0,INFP,Mtech in Design engineering,Govt. Job and PSU,MSc in Mineral Science,JOB in Software Industry,MBA
+Jagbir singh Rajput,1540155,ME,65.55104888,0,INTJ,JOB in Software Industry,Mtech in Design engineering,Mtech in fluidics/ Hydraulics,Startup,MSc in Mineral Science
+JAIDEEEP AGARWAL,1540116,ME,67.31694183,0,INTP,Mtech in fluidics/ Hydraulics,Startup,MBA,JOB in Software Industry,Govt. Job and PSU
+KANHA KARIWALA,1540156,ME,65.84430627,0,INFJ,Mtech in fluidics/ Hydraulics,Mtech in Manufacturing engineering,Mtech in Design engineering,Startup,JOB in Software Industry
+KARTIKEY DENGRE,1540123,ME,63.05452467,1,ISTP,JOB in Mechanical Industry,Mtech in fluidics/ Hydraulics,Mtech in Manufacturing engineering,MSc in Mineral Science,BSc
+KRISHNANDU SHARMA,1540013,ME,80.8416497,0,INTJ,Mtech in fluidics/ Hydraulics,MSc in Mineral Science,Mtech in Design engineering,MBA,Mtech in Manufacturing engineering
+KUMAR ANKIT,1540157,ME,59.04392298,0,ENTP,Mtech in Manufacturing engineering,MSc in Mineral Science,Mtech in fluidics/ Hydraulics,Startup,MBA
+KUSHAGRA JINDAL,1540081,ME,82.67891307,0,ISTP,MBA,Govt. Job and PSU,Mtech in fluidics/ Hydraulics,Mtech in Design engineering,MSc in Mineral Science
+LOKESH KUMAR,1540040,ME,58.66091759,0,INFP,Mtech in Manufacturing engineering,Mtech in fluidics/ Hydraulics,MSc in Mineral Science,Startup,JOB in Mechanical Industry
+MADHAV CHHARIYA,1540089,ME,66.25381499,0,INFP,Mtech in fluidics/ Hydraulics,Mtech in Manufacturing engineering,Startup,MBA,Mtech in Design engineering
+MADHUR GUPTA,1540094,ME,83.85856655,0,INTJ,Mtech in fluidics/ Hydraulics,Govt. Job and PSU,Mtech in Design engineering,MBA,JOB in Mechanical Industry
+Madhuram Mehrotra,1540158,ME,72.22861668,0,ISTP,Govt. Job and PSU,Startup,Mtech in Design engineering,MSc in Mineral Science,MBA
+MANAS KUMAR,1540120,ME,73.53507977,0,INFP,Mtech in Design engineering,Mtech in Manufacturing engineering,Startup,Govt. Job and PSU,MSc in Mineral Science
+MANISH CHAUHAN,1540159,ME,56.81460764,0,ENFP,JOB in Mechanical Industry,Startup,Mtech in Manufacturing engineering,Mtech in fluidics/ Hydraulics,Different Undergraduate Course
+MANISH KUMAR MEENA,1540058,ME,49.20350032,0,ENTP,Job,JOB in Mechanical Industry,Startup,Different Undergraduate Course,MSc in Mineral Science
+Manu Sharma,1540095,ME,65.67341762,0,INTP,Mtech in Manufacturing engineering,Mtech in fluidics/ Hydraulics,JOB in Software Industry,MSc in Mineral Science,MBA
+MANU SINGH,1540096,ME,82.99286405,0,INFP,Mtech in fluidics/ Hydraulics,Mtech in Design engineering,MSc in Mineral Science,Govt. Job and PSU,MBA
+MAYANK SINGH,1540020,ME,72.77965446,0,INTP,Govt. Job and PSU,MBA,Mtech in Design engineering,Mtech in fluidics/ Hydraulics,Mtech in Manufacturing engineering
+MOHD AFZAL,1540086,ME,64.66211559,0,ENTP,JOB in Mechanical Industry,Mtech in Manufacturing engineering,Mtech in fluidics/ Hydraulics,Mtech in Design engineering,MBA
+MOHD SHADAB,1540161,ME,58.23746899,0,INTJ,MSc in Mineral Science,Startup,JOB in Mechanical Industry,Mtech in Manufacturing engineering,Mtech in fluidics/ Hydraulics
+MONU AGRAWAL,1540112,ME,66.97761504,0,INTP,Mtech in Manufacturing engineering,JOB in Mechanical Industry,Mtech in fluidics/ Hydraulics,MSc in Mineral Science,Startup
+MUDIT GUPTA,1540119,ME,71.93818408,0,INTP,Startup,MSc in Mineral Science,Govt. Job and PSU,JOB in Software Industry,Mtech in Manufacturing engineering
+MUKESH YADAV,1540073,ME,69.77643882,0,INFP,Startup,Govt. Job and PSU,Mtech in Manufacturing engineering,JOB in Software Industry,MBA
+NAMAN KUMAR MISHRA,1540107,ME,65.50475413,0,ENFP,Mtech in Manufacturing engineering,JOB in Mechanical Industry,Mtech in fluidics/ Hydraulics,JOB in Software Industry,Mtech in Design engineering
+NEERAJ KUMAR,1540118,ME,68.25807945,0,ESFP,Mtech in Design engineering,Mtech in Manufacturing engineering,Startup,MSc in Mineral Science,JOB in Software Industry
+PALAK YADAV,1521035,ME,74.75472397,0,ISFP,MBA,MSc in Mineral Science,Startup,Mtech in Manufacturing engineering,Mtech in Design engineering
+PANKAJ KUMAR,1540012,ME,69.41086031,0,INTJ,Mtech in fluidics/ Hydraulics,Startup,MBA,Mtech in Design engineering,JOB in Software Industry
+PANKAJ KUMAR SHARMA,1540082,ME,47.7546658,1,INTP,Job,Startup,JOB in Mechanical Industry,Different Undergraduate Course,BSc
+Pari Prasad,1540008,ME,67.15296416,0,INTP,JOB in Mechanical Industry,Mtech in fluidics/ Hydraulics,Mtech in Manufacturing engineering,Mtech in Design engineering,MSc in Mineral Science
+PIYUSH GUPTA,1540163,ME,80.91582855,0,INTP,Mtech in fluidics/ Hydraulics,Govt. Job and PSU,JOB in Software Industry,Mtech in Manufacturing engineering,Mtech in Design engineering
+PIYUSH GUPTA,1540036,ME,69.4300156,0,ENTP,Startup,Mtech in fluidics/ Hydraulics,JOB in Software Industry,Mtech in Design engineering,MBA
+PRASHANT  JAISWAL,1540045,ME,76.00267347,0,INFP,Mtech in fluidics/ Hydraulics,Govt. Job and PSU,Mtech in Design engineering,Startup,MSc in Mineral Science
+PRASHANT KUMAR,1540077,ME,56.91617261,0,INFP,Mtech in fluidics/ Hydraulics,BSc,Mtech in Manufacturing engineering,JOB in Mechanical Industry,Startup
+PRASHANT KUMAR,1540032,ME,70.31078668,0,INFP,Mtech in Manufacturing engineering,Startup,Govt. Job and PSU,MSc in Mineral Science,JOB in Mechanical Industry
+PRATEEK KUMAR SHUKLA,1540093,ME,76.73654048,0,INTP,MSc in Mineral Science,Startup,Mtech in Manufacturing engineering,Govt. Job and PSU,JOB in Software Industry
+Prateek Sachan,1540087,ME,61.88483086,0,INFP,Startup,MSc in Mineral Science,Mtech in fluidics/ Hydraulics,Mtech in Manufacturing engineering,JOB in Mechanical Industry
+PRIYANSHU SHRIVASTAV,1540164,ME,65.41143516,0,INFJ,Mtech in fluidics/ Hydraulics,Mtech in Manufacturing engineering,Mtech in Design engineering,JOB in Mechanical Industry,Startup
+Pushkar Patel,1540165,ME,72.39760506,0,INTP,Startup,Mtech in Manufacturing engineering,JOB in Software Industry,Govt. Job and PSU,MBA
+RAHUL KUMAR,1540072,ME,58.07725464,0,INTP,JOB in Mechanical Industry,Mtech in fluidics/ Hydraulics,Mtech in Manufacturing engineering,Startup,BSc
+RAHUL  KUMAR CHAUDHARI,1540043,ME,64.68814956,0,INTP,Mtech in Design engineering,Mtech in fluidics/ Hydraulics,MSc in Mineral Science,Mtech in Manufacturing engineering,JOB in Software Industry
+RAHUL SINGH,1540010,ME,76.51353641,0,INFJ,Govt. Job and PSU,MBA,MSc in Mineral Science,JOB in Mechanical Industry,Mtech in fluidics/ Hydraulics
+RAJA  SAHIB RAI,1540166,ME,63.67927271,0,ESFP,MSc in Mineral Science,JOB in Mechanical Industry,MBA,Mtech in Manufacturing engineering,JOB in Software Industry
+RAVI SHARMA,1540167,ME,63.88050605,0,ENFP,Mtech in Manufacturing engineering,Mtech in fluidics/ Hydraulics,Mtech in Design engineering,MSc in Mineral Science,JOB in Mechanical Industry
+Reshabh Jauhari,1540018,ME,44.46508304,1,ISTJ,Job,JOB in Mechanical Industry,Different Undergraduate Course,Startup,Mtech in fluidics/ Hydraulics
+RIKUL CHOUDHARY,1540039,ME,65.31417471,0,INFJ,Startup,Mtech in Design engineering,Mtech in fluidics/ Hydraulics,JOB in Mechanical Industry,Mtech in Manufacturing engineering
+Rishabh Jain,1540168,ME,65.87247945,0,INTJ,MSc in Mineral Science,Mtech in fluidics/ Hydraulics,Mtech in Design engineering,JOB in Mechanical Industry,Mtech in Manufacturing engineering
+RISHABH JAISWAL,1540017,ME,65.70127649,0,INTP,JOB in Software Industry,Mtech in Design engineering,Mtech in fluidics/ Hydraulics,MBA,Startup
+RISHABH SHARMA,1540169,ME,67.38851905,0,INTP,Mtech in Design engineering,Mtech in Manufacturing engineering,JOB in Software Industry,MSc in Mineral Science,JOB in Mechanical Industry
+RITIK RAI,1540127,ME,77.27446427,0,ISTP,Govt. Job and PSU,MSc in Mineral Science,MBA,Mtech in Design engineering,Mtech in fluidics/ Hydraulics
+ROHIT JAISWAL,1540124,ME,55.63365023,0,ISFP,Mtech in Manufacturing engineering,Mtech in fluidics/ Hydraulics,JOB in Mechanical Industry,Startup,BSc
+ROHIT KUMAR SINGH,1540171,ME,54.37445983,0,INTJ,JOB in Mechanical Industry,Startup,Different Undergraduate Course,Mtech in fluidics/ Hydraulics,BSc
+ROHIT KUMAR VERMA,1540110,ME,72.13992275,0,ENTJ,Startup,Mtech in Manufacturing engineering,Govt. Job and PSU,MBA,JOB in Software Industry
+ROHIT YADAV,1540028,ME,75.12803466,0,ENTP,Mtech in Design engineering,Govt. Job and PSU,Mtech in fluidics/ Hydraulics,MBA,JOB in Software Industry
+SACHIN GOYAL,1540106,ME,60.34239226,0,INTP,Mtech in Manufacturing engineering,Mtech in fluidics/ Hydraulics,JOB in Mechanical Industry,MSc in Mineral Science,Startup
+Sachin kumar Sharma,1540172,ME,82.8170334,0,INTJ,Govt. Job and PSU,MBA,Mtech in fluidics/ Hydraulics,Mtech in Design engineering,Startup
+SAIYAD MOHAMMAD RISALAT JAFRI,1540173,ME,67.80717133,0,ESTJ,JOB in Mechanical Industry,Startup,Mtech in Design engineering,Mtech in fluidics/ Hydraulics,MBA
+SANCHIT GUPTA,1540126,ME,76.73510314,0,ISTP,JOB in Mechanical Industry,Mtech in fluidics/ Hydraulics,MBA,MSc in Mineral Science,Mtech in Design engineering
+SANKET YADAV,1540105,ME,71.16575315,0,INTP,Mtech in Manufacturing engineering,MBA,Govt. Job and PSU,Startup,MSc in Mineral Science
+SANTOSH KUMAR MISHRA,1540125,ME,82.18242639,0,INFP,Mtech in fluidics/ Hydraulics,Mtech in Manufacturing engineering,MBA,Mtech in Design engineering,Startup
+Satyam Jaiswal,1540014,ME,69.3330309,0,ESTP,Startup,Mtech in Manufacturing engineering,Mtech in fluidics/ Hydraulics,Govt. Job and PSU,MBA
+SAURABH KUMAR,1540131,ME,58.97417053,0,INTJ,Mtech in Manufacturing engineering,Mtech in fluidics/ Hydraulics,JOB in Mechanical Industry,MSc in Mineral Science,MBA
+SAURABH SINGH,1540132,ME,56.42275983,0,INFP,JOB in Mechanical Industry,Startup,Mtech in fluidics/ Hydraulics,BSc,Mtech in Manufacturing engineering
+SHAKTI CHAUDHARY,1540174,ME,59.40616368,0,INFJ,MSc in Mineral Science,Mtech in fluidics/ Hydraulics,Mtech in Manufacturing engineering,Startup,JOB in Mechanical Industry
+Sharad Kumar  Singh,1540175,ME,57.68004493,0,INTP,Mtech in Manufacturing engineering,MSc in Mineral Science,Mtech in fluidics/ Hydraulics,MBA,BSc
+SHASHANK DIXIT,1500042,ME,60.82719741,0,ENFP,MSc in Mineral Science,Startup,Mtech in fluidics/ Hydraulics,Mtech in Manufacturing engineering,JOB in Mechanical Industry
+SHASHANK KUMAR,1540052,ME,71.68046542,0,ENFJ,Mtech in Manufacturing engineering,MSc in Mineral Science,Startup,Govt. Job and PSU,Mtech in Design engineering
+SHASHANK SINGH,1540176,ME,72.02397015,0,ISTP,Mtech in Manufacturing engineering,JOB in Software Industry,Startup,MSc in Mineral Science,Govt. Job and PSU
+SHIVAM ASTHANA,1540084,ME,63.18304488,0,ENTP,Mtech in Manufacturing engineering,MSc in Mineral Science,Mtech in fluidics/ Hydraulics,JOB in Mechanical Industry,Mtech in Design engineering
+SHIVAM  DWIVEDI,1540177,ME,58.08764207,0,ISFP,MSc in Mineral Science,Mtech in Manufacturing engineering,Startup,Mtech in fluidics/ Hydraulics,JOB in Mechanical Industry
+SHIVANG MAURYA,1540102,ME,64.60151133,0,ESTP,Mtech in Design engineering,Mtech in Manufacturing engineering,Startup,Mtech in fluidics/ Hydraulics,MSc in Mineral Science
+SHIVENDRA UPADHYAY,1540179,ME,57.07539905,0,ISTP,MSc in Mineral Science,Mtech in fluidics/ Hydraulics,Startup,Mtech in Manufacturing engineering,JOB in Mechanical Industry
+SHREYAM MISHRA,1540180,ME,68.01759799,0,ENFP,Mtech in Manufacturing engineering,MBA,MSc in Mineral Science,Startup,JOB in Mechanical Industry
+SHUBHAM ADITYA  SINGH,1540098,ME,59.02147822,0,ISTP,Mtech in Manufacturing engineering,MSc in Mineral Science,Mtech in fluidics/ Hydraulics,Startup,JOB in Mechanical Industry
+SHUBHAM GARG,1540181,ME,65.43674162,0,ENTJ,Mtech in Design engineering,Mtech in fluidics/ Hydraulics,Mtech in Manufacturing engineering,JOB in Mechanical Industry,MSc in Mineral Science
+AMIT KUMAR SINGH,1500068,ME,74.43790221,0,INTJ,Govt. Job and PSU,JOB in Mechanical Industry,MSc in Mineral Science,MBA,JOB in Software Industry
+PUNEET KUMAR SHARMA,1500080,ME,71.75600139,0,ESFJ,JOB in Software Industry,Mtech in Manufacturing engineering,Govt. Job and PSU,Startup,MBA
+RAVI KUMAR,1500120,ME,61.88499013,0,INTP,Mtech in Manufacturing engineering,MSc in Mineral Science,Mtech in fluidics/ Hydraulics,JOB in Mechanical Industry,Startup
+VINAY GUPTA,1500081,ECE,73.46249532,0,ISFP,Startup,Mtech in Robotics,MSc Digital Systems,Mtech in Electronics Circuit Design,MSc in Embedded Systems
+YASHIKA GUPTA,1500072,ME,77.7348358,0,ISTP,MSc in Mineral Science,Mtech in fluidics/ Hydraulics,JOB in Mechanical Industry,Govt. Job and PSU,MBA
+ABHIJEET CHAUHAN,1531009,CSE,63.91172315,0,INTP,Mtech in Security and Forensic,Mtech in Image Processing,Startup,Mtech in Data Analytics,MS in Algorithms
+ABHILASH SRIVASTAVA,1510095,CSE,56.96022476,0,ISFJ,Mtech in Artificial Intelligence,Different Undergraduate Course,JOB in Software Industry,Mtech in Data Analytics,Job
+Abhinav Gangwar,1510032,CSE,74.82775748,0,ISFP,MBA,JOB in Software Industry,Mtech in Image Processing,MS in Algorithms,Mtech in Artificial Intelligence
+ABHISHEK .,1510118,CSE,79.25175536,0,INTJ,JOB in Software Industry,MBA,Mtech in Data Analytics,Mtech in Artificial Intelligence,Mtech in Image Processing
+ABHISHEK KUMAR,1510116,CSE,49.50285292,1,ENTJ,Different Undergraduate Course,Mtech in Data Analytics,JOB in Software Industry,Mtech in Artificial Intelligence,Job
+ABHISHEK KUMAR,1510073,CSE,62.28849722,0,INFP,Mtech in Artificial Intelligence,MS in Algorithms,JOB in Software Industry,Mtech in Image Processing,Mtech in Security and Forensic
+ABHISHEK KUMAR YADAV,1510111,CSE,57.50149914,0,INTJ,Mtech in Artificial Intelligence,Different Undergraduate Course,Job,Mtech in Data Analytics,JOB in Software Industry
+ABHISHEK VERMA,1510051,CSE,65.75471491,0,ENTP,MS in Algorithms,Mtech in Security and Forensic,Mtech in Data Analytics,Startup,Mtech in Artificial Intelligence
+ADYA JHA,1510119,CSE,89.65157078,0,ESTJ,Startup,MS in Algorithms,Mtech in Data Analytics,Mtech in Security and Forensic,Govt. Job and PSU
+AKANKSHA SACHAN,1510048,CSE,78.40710085,0,ISTP,JOB in Software Industry,Mtech in Data Analytics,MS in Algorithms,MBA,Mtech in Artificial Intelligence
+Akanksha Teotia,1510120,CSE,77.31622138,0,INTP,Mtech in Security and Forensic,JOB in Software Industry,MS in Algorithms,Mtech in Image Processing,Mtech in Data Analytics
+AKASH BHASKER,1510076,CSE,66.53460937,0,ENTJ,Mtech in Image Processing,Govt. Job and PSU,JOB in Software Industry,Mtech in Security and Forensic,MS in Algorithms
+AKSHAY DIXIT,1510103,CSE,72.65349896,0,ISTP,MS in Algorithms,JOB in Software Industry,Mtech in Data Analytics,Mtech in Security and Forensic,Mtech in Image Processing
+AMAN AGGARWAL,1510068,CSE,81.18067993,0,ENFJ,Mtech in Data Analytics,Startup,Mtech in Security and Forensic,Mtech in Artificial Intelligence,JOB in Software Industry
+AMAN AGRAWAL,1510016,CSE,73.60183758,0,INFP,MBA,JOB in Software Industry,Mtech in Security and Forensic,Mtech in Data Analytics,Mtech in Image Processing
+AMAN SINGH PILKHWAL,1510122,CSE,76.69870688,0,ENTP,MBA,Mtech in Data Analytics,JOB in Software Industry,Mtech in Image Processing,Mtech in Security and Forensic
+AMIT .,1510040,CSE,66.17317592,1,ESTP,Mtech in Data Analytics,Startup,Mtech in Artificial Intelligence,MS in Algorithms,Mtech in Image Processing
+AMIT KUMAR PANDEY,1510101,CSE,72.14780178,0,ENFJ,JOB in Software Industry,MS in Algorithms,Mtech in Security and Forensic,MBA,Mtech in Data Analytics
+AMIYA KRISHNA GUPTA,1510123,CSE,65.95121446,0,ENFJ,Startup,Mtech in Security and Forensic,Mtech in Image Processing,MS in Algorithms,Mtech in Data Analytics
+Aniket Kumar Tripathi,1510093,CSE,78.35200681,0,ESFP,Mtech in Image Processing,MS in Algorithms,Mtech in Data Analytics,Mtech in Artificial Intelligence,MBA
+ANJU .,1510027,CSE,78.12857872,0,ENTJ,JOB in Software Industry,Mtech in Image Processing,MBA,Mtech in Data Analytics,MS in Algorithms
+ANKIT .,1510124,CSE,71.31498295,0,ESTJ,MS in Algorithms,Mtech in Data Analytics,JOB in Software Industry,Startup,Mtech in Image Processing
+ANKIT GUPTA,1510108,CSE,77.59344588,0,ISTP,JOB in Software Industry,Mtech in Data Analytics,Mtech in Artificial Intelligence,MBA,Mtech in Security and Forensic
+ANMOL CHAUDHARY,1510063,CSE,65.56512651,0,ISFJ,Mtech in Security and Forensic,Mtech in Data Analytics,Mtech in Image Processing,MS in Algorithms,MBA
+ANSH SRIVASTAVA,1510003,CSE,64.80435906,0,INTP,Mtech in Security and Forensic,Mtech in Image Processing,Mtech in Data Analytics,MS in Algorithms,Mtech in Artificial Intelligence
+ANSHIKA BHATNAGAR,1510080,CSE,73.38691819,0,ESTJ,JOB in Software Industry,MBA,Mtech in Data Analytics,Mtech in Image Processing,MS in Algorithms
+ANSHUL GUPTA,1540024,CSE,72.93578181,0,ISFP,MBA,JOB in Software Industry,Startup,MS in Algorithms,Mtech in Security and Forensic
+ANSHUL MITTAL,1510125,CSE,65.76612667,0,ISFP,Mtech in Artificial Intelligence,MS in Algorithms,MBA,Mtech in Security and Forensic,Mtech in Data Analytics
+ANSHUL  SHARMA,1510023,CSE,77.69197681,0,ENTP,Mtech in Artificial Intelligence,MBA,Mtech in Data Analytics,JOB in Software Industry,Mtech in Security and Forensic
+ANUJ GUPTA,1510126,CSE,65.60057678,0,ISFP,Mtech in Artificial Intelligence,MS in Algorithms,Mtech in Data Analytics,Mtech in Security and Forensic,Mtech in Image Processing
+ANUJ GUPTA,1510090,CSE,76.3360829,0,ISTJ,Mtech in Security and Forensic,JOB in Software Industry,Mtech in Image Processing,MBA,MS in Algorithms
+ANURAG SAGAR,1510060,CSE,56.74070199,0,ENTP,Mtech in Data Analytics,Mtech in Artificial Intelligence,Startup,Different Undergraduate Course,Job
+ANURAG TIWARI,1510017,CSE,84.04004101,0,ISTP,Mtech in Data Analytics,Govt. Job and PSU,Mtech in Artificial Intelligence,Startup,MBA
+ANURAG TIWARI,1510041,CSE,88.98484557,0,ESTP,Startup,MS in Algorithms,Mtech in Security and Forensic,Mtech in Data Analytics,JOB in Software Industry
+APOORVA PANDEY,1510128,CSE,62.03133352,0,INTJ,Mtech in Artificial Intelligence,MS in Algorithms,Mtech in Data Analytics,Mtech in Image Processing,Startup
+Arav Malik,1510045,CSE,68.56635007,0,ENTP,Mtech in Data Analytics,Startup,MBA,MS in Algorithms,Mtech in Security and Forensic
+ARCHIT AGGARWAL,1510129,CSE,70.49610948,0,INTP,MS in Algorithms,Mtech in Security and Forensic,Mtech in Image Processing,Mtech in Data Analytics,MBA
+ARCHIT AGRAWAL,1510130,CSE,74.16526334,0,ESFJ,JOB in Software Industry,MBA,Mtech in Data Analytics,Mtech in Security and Forensic,Mtech in Image Processing
+ASHDEEP TIWARI,1510112,CSE,65.8370787,0,ISFJ,MBA,Mtech in Image Processing,Mtech in Data Analytics,MS in Algorithms,Startup
+ASHUTOSH KUMAR,1510002,CSE,63.79639967,0,INTP,Mtech in Artificial Intelligence,MS in Algorithms,Mtech in Image Processing,Mtech in Security and Forensic,Mtech in Data Analytics
+ASHUTOSH KUMAR SINGH,1510020,CSE,66.37311364,0,INFP,Mtech in Security and Forensic,MBA,MS in Algorithms,Startup,Mtech in Image Processing
+AVINASH RAI,1510131,CSE,56.82726688,1,ENFP,Different Undergraduate Course,JOB in Software Industry,Mtech in Data Analytics,Job,Mtech in Artificial Intelligence
+AYUSH GUPTA,1513015,CSE,59.08149467,0,INTP,Job,Mtech in Artificial Intelligence,Startup,Different Undergraduate Course,Mtech in Data Analytics
+AYUSH PRATAP SINGH,1510062,CSE,60.56539973,0,INTP,Mtech in Artificial Intelligence,Mtech in Data Analytics,Startup,Different Undergraduate Course,Job
+AYUSHI GOEL,1513016,CSE,83.08487343,0,INFP,MBA,Mtech in Image Processing,JOB in Software Industry,Mtech in Artificial Intelligence,Mtech in Data Analytics
+BALRAM JAISWAL,1510104,CSE,72.54763998,0,ENTJ,Mtech in Security and Forensic,Govt. Job and PSU,Mtech in Data Analytics,MS in Algorithms,JOB in Software Industry
+CHANDAN KUMAR KARN,1510132,CSE,73.55753264,0,INTP,Mtech in Data Analytics,JOB in Software Industry,Mtech in Security and Forensic,MBA,MS in Algorithms
+CHARU UPADHYAYA,1510133,CSE,75.29631686,0,INTP,JOB in Software Industry,Mtech in Data Analytics,MBA,MS in Algorithms,Mtech in Security and Forensic
+DEEKSHA SINGH,1513004,CSE,92.20932656,0,INTJ,MS in Algorithms,Mtech in Security and Forensic,Startup,Mtech in Artificial Intelligence,Govt. Job and PSU
+DEVANSHI KHARE,1510113,CSE,92.12743491,0,INFP,MS in Algorithms,Startup,Mtech in Artificial Intelligence,Govt. Job and PSU,Mtech in Security and Forensic
+DIKSHA GUPTA,1510134,CSE,82.91330226,0,ESTJ,MBA,MS in Algorithms,Mtech in Data Analytics,Mtech in Artificial Intelligence,Govt. Job and PSU
+DISHA BHATNAGAR,1531018,CSE,89.57841526,0,ENTJ,Mtech in Security and Forensic,Startup,MS in Algorithms,JOB in Software Industry,Govt. Job and PSU
+Divyam Singh,1510097,CSE,68.40735191,0,INTJ,MS in Algorithms,Mtech in Security and Forensic,Mtech in Data Analytics,Mtech in Image Processing,Govt. Job and PSU
+DIVYANSHU  TRIVEDI,1510094,CSE,58.99886635,0,INTP,Mtech in Data Analytics,Mtech in Artificial Intelligence,MS in Algorithms,Mtech in Image Processing,Startup
+GARV GAUR,1510135,CSE,65.20677939,0,INFP,Startup,Mtech in Image Processing,MS in Algorithms,Mtech in Security and Forensic,JOB in Software Industry
+GAURAV .,1510013,ECE,68.45732969,0,ISTP,MSc in Signal processing,Mtech in Electronics Circuit Design,Govt. Job and PSU,MSc Digital Systems,MSc in Embedded Systems
+GAUTAM RISHI,1510046,CSE,74.48730115,0,ISTP,Mtech in Security and Forensic,JOB in Software Industry,MS in Algorithms,Mtech in Data Analytics,Mtech in Image Processing
+HARLEEN KAUR,1513044,CSE,79.52013451,0,ISTP,Govt. Job and PSU,Mtech in Artificial Intelligence,Mtech in Data Analytics,Startup,JOB in Software Industry
+HARSHIT  UPADHYAY,1510082,CSE,66.56439622,0,ENTP,Mtech in Security and Forensic,Mtech in Image Processing,MS in Algorithms,Mtech in Data Analytics,JOB in Software Industry
+HEMANT KUMAR SHARMA,1510024,CSE,76.53629302,0,INTP,JOB in Software Industry,MS in Algorithms,Mtech in Image Processing,MBA,Startup
+Himanshu Nigam,1510030,CSE,65.41543861,0,ENTP,MS in Algorithms,Mtech in Security and Forensic,Mtech in Artificial Intelligence,Mtech in Data Analytics,MBA
+HIMESH GOEL,1510136,CSE,70.89208917,0,INFP,MS in Algorithms,JOB in Software Industry,Mtech in Security and Forensic,Mtech in Data Analytics,MBA
+JAYANTI SHUKLA,1510137,CSE,79.44538321,0,ENFP,MS in Algorithms,Mtech in Security and Forensic,Mtech in Artificial Intelligence,JOB in Software Industry,Mtech in Image Processing
+JYOTI CHAUHAN,1510138,CSE,74.71055871,0,ENTP,JOB in Software Industry,Mtech in Artificial Intelligence,MS in Algorithms,Mtech in Data Analytics,Mtech in Image Processing
+KARTIK JAIN,1510139,CSE,75.57193368,0,INTP,Mtech in Data Analytics,MS in Algorithms,Startup,Govt. Job and PSU,JOB in Software Industry
+KARUN RAJ SINGH,1510034,CSE,60.0271645,1,ESTP,Mtech in Artificial Intelligence,Mtech in Data Analytics,MS in Algorithms,Different Undergraduate Course,Startup
+KAUSTUBH JAISWAL,1510140,CSE,59.79667315,0,ESTP,Different Undergraduate Course,JOB in Software Industry,Mtech in Artificial Intelligence,Job,Mtech in Data Analytics
+KESHAV KUMAR,1510036,CSE,78.69798184,0,INFP,MS in Algorithms,JOB in Software Industry,MBA,Mtech in Image Processing,Mtech in Data Analytics
+KSHITIJ PRATAP SINGH,1513046,CSE,69.75686652,0,ISFP,Mtech in Data Analytics,Startup,JOB in Software Industry,Mtech in Image Processing,MBA
+KULDEEP GAUTAM,1521014,CSE,74.32632216,0,INFJ,Mtech in Artificial Intelligence,JOB in Software Industry,Mtech in Data Analytics,MS in Algorithms,MBA
+KUNAL .,1510010,CSE,74.2433572,0,ENFJ,Mtech in Artificial Intelligence,JOB in Software Industry,MS in Algorithms,Mtech in Data Analytics,MBA
+KUSHAGRA SHUKLA,1510141,CSE,66.71140501,0,ENFP,Mtech in Data Analytics,Startup,MBA,MS in Algorithms,JOB in Software Industry
+KUSHAL GUPTA,1510088,CSE,72.02200675,0,ESTJ,JOB in Software Industry,Mtech in Data Analytics,MBA,Startup,MS in Algorithms
+LAVISH JAIN,1531005,CSE,79.80233557,0,ESFJ,Mtech in Data Analytics,JOB in Software Industry,MBA,Govt. Job and PSU,Mtech in Image Processing
+Lokesh Rawat,1531053,CSE,54.46757768,0,INFP,Mtech in Data Analytics,Different Undergraduate Course,JOB in Software Industry,Job,Mtech in Artificial Intelligence
+MANSI GUPTA,1510142,CSE,68.6335284,0,ESTP,MS in Algorithms,MBA,Mtech in Image Processing,Mtech in Data Analytics,Mtech in Security and Forensic
+Mayank  Gautam,1510071,CSE,65.28216042,0,INFP,MBA,Mtech in Security and Forensic,Startup,Mtech in Image Processing,MS in Algorithms
+MAYANK JOSHI,1510109,CSE,72.27290787,0,ENFJ,Mtech in Data Analytics,MBA,MS in Algorithms,JOB in Software Industry,Mtech in Image Processing
+MAYANK KUMAR,1513011,CSE,67.26990862,0,INFJ,Mtech in Image Processing,Mtech in Security and Forensic,JOB in Software Industry,MS in Algorithms,Govt. Job and PSU
+MAYANK KUMAR,1510005,CSE,7.600444353,1,INTJ,Different Undergraduate Course,Mtech in Image Processing,Mtech in Security and Forensic,Mtech in Artificial Intelligence,JOB in Software Industry
+MEGHA SHAH,1510052,CSE,65.9097455,0,ESTJ,JOB in Software Industry,MS in Algorithms,Mtech in Security and Forensic,Mtech in Image Processing,Mtech in Data Analytics
+MEGHNA SINGH,1510059,CSE,79.18893611,0,INFP,MS in Algorithms,JOB in Software Industry,Mtech in Artificial Intelligence,Mtech in Data Analytics,Govt. Job and PSU
+MITALI SINGH,1510110,CSE,70.00846118,0,INTP,MS in Algorithms,JOB in Software Industry,Govt. Job and PSU,Mtech in Security and Forensic,MBA
+MITESH KUMAR,1510143,CSE,76.43182065,0,INTJ,JOB in Software Industry,Mtech in Artificial Intelligence,Mtech in Data Analytics,MS in Algorithms,Mtech in Security and Forensic
+TABISH JAVED,1510084,CSE,73.98846805,0,INTJ,JOB in Software Industry,MS in Algorithms,Mtech in Data Analytics,MBA,Mtech in Image Processing
+MOHAMMED AJMAL KHAN,1510077,CSE,72.60304591,0,INTP,Mtech in Image Processing,JOB in Software Industry,Mtech in Data Analytics,MS in Algorithms,MBA
+NAMRATA SINGH,1510019,CSE,61.02998083,0,INTJ,MS in Algorithms,Mtech in Security and Forensic,Startup,Mtech in Image Processing,Mtech in Data Analytics
+NANCY NATH,1510042,CSE,62.56209186,1,ENTP,Mtech in Image Processing,MS in Algorithms,Mtech in Security and Forensic,Mtech in Artificial Intelligence,Mtech in Data Analytics
+NIKHIL TYAGI,1510102,CSE,72.56247507,0,ISTJ,Mtech in Data Analytics,JOB in Software Industry,Mtech in Image Processing,MBA,MS in Algorithms
+Nikita Aggarwal,1510145,CSE,67.15501624,0,ENFP,JOB in Software Industry,Mtech in Data Analytics,MS in Algorithms,Mtech in Security and Forensic,Mtech in Image Processing
+NITIN  KHARE,1510146,CSE,78.90602217,0,ESFJ,Govt. Job and PSU,JOB in Software Industry,Mtech in Data Analytics,Mtech in Artificial Intelligence,Mtech in Image Processing
+OM SINGH,1510022,CSE,64.38729534,0,ENFP,Mtech in Security and Forensic,MS in Algorithms,Startup,Mtech in Image Processing,Mtech in Data Analytics
+PALLAV SINGH,1540051,CSE,66.79172091,0,ENFJ,MS in Algorithms,Startup,Mtech in Security and Forensic,Mtech in Data Analytics,MBA
+Paras Gaur,1510011,CSE,83.20853308,0,ENTP,Govt. Job and PSU,Mtech in Image Processing,Mtech in Data Analytics,Mtech in Artificial Intelligence,MS in Algorithms
+PARITOSH JAJJ,1531030,CSE,72.50201567,0,INFJ,MBA,JOB in Software Industry,Mtech in Security and Forensic,Mtech in Image Processing,MS in Algorithms
+Piyush Kumar,1510147,CSE,66.77916061,0,ISFP,Mtech in Security and Forensic,MBA,MS in Algorithms,Mtech in Data Analytics,JOB in Software Industry
+PRABHAT KUMAR GUPTA,1510026,CSE,68.66406645,0,INTP,Mtech in Security and Forensic,Mtech in Data Analytics,MS in Algorithms,JOB in Software Industry,MBA
+PRACHI PANDEY,1510004,CSE,77.22108018,0,ESTJ,Mtech in Artificial Intelligence,Mtech in Security and Forensic,MS in Algorithms,JOB in Software Industry,MBA
+PRAKHAR UPRETI,1513001,CSE,81.82672855,0,INTP,MS in Algorithms,Mtech in Artificial Intelligence,JOB in Software Industry,MBA,Mtech in Data Analytics
+PRANAV GUPTA,1510148,CSE,85.5412477,0,ISTJ,Mtech in Data Analytics,Mtech in Image Processing,Startup,Govt. Job and PSU,JOB in Software Industry
+PRANAV KUMAR CHATURVEDI,1510106,CSE,62.39204606,0,INFP,Mtech in Artificial Intelligence,Mtech in Data Analytics,Startup,MS in Algorithms,Mtech in Security and Forensic
+PRASHANT GOTRA,1510050,CSE,67.30064696,0,ESFP,Mtech in Security and Forensic,MS in Algorithms,Startup,MBA,Mtech in Image Processing
+PRATEEK  GUPTA,1510149,CSE,66.1359994,0,ENTP,Mtech in Data Analytics,MS in Algorithms,Mtech in Artificial Intelligence,Mtech in Security and Forensic,Startup
+PRATEEK SRIVASTAVA,1510114,CSE,66.10160421,0,ENTJ,Mtech in Data Analytics,Govt. Job and PSU,Mtech in Image Processing,MS in Algorithms,Startup
+PRATHNA AGARWAL,1510150,CSE,89.255194,0,ENTP,Startup,MS in Algorithms,Govt. Job and PSU,Mtech in Security and Forensic,JOB in Software Industry
+PRIYANK AGGARWAL,1510151,CSE,85.05957019,0,ISTP,MS in Algorithms,Mtech in Data Analytics,JOB in Software Industry,Startup,MBA
+PRIYANKA PATHAK,1510021,CSE,84.47490675,0,ENTP,Govt. Job and PSU,Startup,Mtech in Data Analytics,Mtech in Image Processing,Mtech in Artificial Intelligence
+PRIYANSH DUBEY,1510018,CSE,71.89587122,0,ISFP,MS in Algorithms,Mtech in Security and Forensic,Mtech in Data Analytics,JOB in Software Industry,MBA
+Rachit  Singhal,1510152,CSE,61.50215882,0,ENTP,Mtech in Artificial Intelligence,Mtech in Data Analytics,Startup,Mtech in Security and Forensic,MS in Algorithms
+RAHUL KUMA,1510074,CSE,54.01100985,0,INTJ,Different Undergraduate Course,Job,Mtech in Data Analytics,JOB in Software Industry,Mtech in Artificial Intelligence
+RAHUL MAURYA,1510066,CSE,72.94454185,0,INTP,Mtech in Data Analytics,JOB in Software Industry,MBA,Mtech in Security and Forensic,Govt. Job and PSU
+RAHUL MITTAL,1510153,CSE,73.11782709,0,ISFJ,JOB in Software Industry,MBA,Mtech in Security and Forensic,Mtech in Data Analytics,Mtech in Image Processing
+RAJAT GUPTA,1510107,CSE,74.99886565,0,INFP,JOB in Software Industry,MBA,Mtech in Data Analytics,Mtech in Image Processing,MS in Algorithms
+RAVISH   KUMAR YADAV,1510075,CSE,72.12197197,0,INTJ,Mtech in Data Analytics,JOB in Software Industry,Mtech in Security and Forensic,MS in Algorithms,MBA
+RIA KHARE,1510154,CSE,73.69057245,0,ESTP,JOB in Software Industry,MBA,Mtech in Security and Forensic,MS in Algorithms,Startup
+Righved Kumar Khare,1510117,CSE,73.62079396,0,ENFP,Mtech in Artificial Intelligence,JOB in Software Industry,Mtech in Data Analytics,MBA,MS in Algorithms
+Riha Sharma,1510155,CSE,64.88665818,0,ENFP,Mtech in Security and Forensic,Startup,MS in Algorithms,Mtech in Image Processing,MBA
+RISHABH AGGARWAL,1510156,CSE,77.84717428,0,INTJ,JOB in Software Industry,Mtech in Data Analytics,MBA,Mtech in Security and Forensic,Mtech in Artificial Intelligence
+RISHABH DEV UPADHYAY,1510157,CSE,62.30973298,0,ISFP,Mtech in Artificial Intelligence,MS in Algorithms,Mtech in Data Analytics,Mtech in Security and Forensic,Mtech in Image Processing
+RITIKA  MITTAL,1510158,CSE,66.64123724,0,INFP,MBA,Mtech in Security and Forensic,JOB in Software Industry,Mtech in Data Analytics,MS in Algorithms
+RUCHIT KUMAR,1510061,CSE,59.60438439,0,ESTJ,Mtech in Artificial Intelligence,Mtech in Data Analytics,MS in Algorithms,Different Undergraduate Course,Mtech in Security and Forensic
+SAJAL  GUPTA,1510159,CSE,79.70132866,0,ESTJ,JOB in Software Industry,MS in Algorithms,Mtech in Artificial Intelligence,MBA,Startup
+SANJAY SINGH,1513010,CSE,68.27802966,0,ISFJ,MBA,Startup,Mtech in Artificial Intelligence,Mtech in Data Analytics,JOB in Software Industry
+SANKET AGARWAL,1510079,CSE,65.62348232,0,ENFJ,Mtech in Security and Forensic,Mtech in Image Processing,Startup,JOB in Software Industry,MS in Algorithms
+SAPNA  YADAV,1510069,CSE,79.67617325,0,INTP,JOB in Software Industry,MS in Algorithms,MBA,Mtech in Artificial Intelligence,Mtech in Security and Forensic
+SARTHAK KUMAR,1510160,CSE,64.06237949,0,ISTJ,Mtech in Image Processing,JOB in Software Industry,Mtech in Data Analytics,MS in Algorithms,Mtech in Security and Forensic
+SATYAM MISHRA,1540003,CSE,74.23529729,0,ENTP,JOB in Software Industry,Mtech in Data Analytics,MBA,MS in Algorithms,Mtech in Image Processing
+SAURABH KUMAR,1510087,CSE,64.25724358,0,ENTP,MS in Algorithms,Mtech in Security and Forensic,Startup,Mtech in Image Processing,JOB in Software Industry
+SAVI BENIWAL,1510070,CSE,78.52618506,0,ESTP,JOB in Software Industry,Mtech in Image Processing,MBA,Mtech in Data Analytics,Govt. Job and PSU
+SHAGUN AGARWAL,1510100,CSE,53.91049346,0,ISTJ,Different Undergraduate Course,JOB in Software Industry,Mtech in Artificial Intelligence,Job,Mtech in Data Analytics
+SHAGUN SINGH,1510044,CSE,74.36241567,0,INTP,JOB in Software Industry,MS in Algorithms,Mtech in Data Analytics,MBA,Mtech in Artificial Intelligence
+SHANTANU RAGHUVANSHI,1510091,CSE,64.06748905,0,ESTJ,Mtech in Security and Forensic,MS in Algorithms,Mtech in Image Processing,Mtech in Data Analytics,Mtech in Artificial Intelligence
+Shanu  Chahal,1510161,CSE,64.0907641,0,INTP,MS in Algorithms,Mtech in Artificial Intelligence,Startup,JOB in Software Industry,Mtech in Security and Forensic
+Shashank Dwivedi,1513002,CSE,56.51198222,0,ISFP,Job,Different Undergraduate Course,Mtech in Artificial Intelligence,JOB in Software Industry,Mtech in Data Analytics
+Shashank Maheshwari,1510028,CSE,61.44885493,0,ENTP,Mtech in Data Analytics,Mtech in Artificial Intelligence,Mtech in Security and Forensic,MS in Algorithms,Mtech in Image Processing
+SHIVAM CHAUHAN,1510085,CSE,81.3800714,0,ESTP,Mtech in Artificial Intelligence,MBA,Mtech in Security and Forensic,MS in Algorithms,JOB in Software Industry
+SHIVAM KUMAR,1510049,CSE,67.16636334,0,ISTP,MBA,MS in Algorithms,Mtech in Security and Forensic,JOB in Software Industry,Mtech in Data Analytics
+SHIVAM KUMAR DAGUR,1510037,CSE,71.13392964,0,INTP,JOB in Software Industry,Mtech in Image Processing,Mtech in Data Analytics,MBA,MS in Algorithms
+SHIVAM KUMAR MISHRA,1510083,CSE,68.03400577,0,INTJ,Mtech in Security and Forensic,Startup,MS in Algorithms,MBA,Mtech in Data Analytics
+SHIVAM PALIWAL,1510064,CSE,62.32737376,0,ENTP,MBA,Mtech in Image Processing,Startup,MS in Algorithms,Mtech in Security and Forensic
+SHIVAM SINGH,1510015,CSE,56.95861012,0,ENTJ,Different Undergraduate Course,Job,Mtech in Data Analytics,JOB in Software Industry,Mtech in Artificial Intelligence
+AYUSH ARYA,1513007,CSE,82.84546198,0,ESTP,Mtech in Artificial Intelligence,MBA,MS in Algorithms,Mtech in Image Processing,Mtech in Security and Forensic
+AANCHAL .,1531062,ECE,70.63261038,0,ENTP,Mtech in Electronics Circuit Design,MSc in Embedded Systems,Startup,MSc in Signal processing,Govt. Job and PSU
+AATIR KHAN,1531133,ME,72.70446537,0,INFP,Startup,JOB in Mechanical Industry,Govt. Job and PSU,JOB in Software Industry,MSc in Mineral Science
+ABHASH SRIVASTAVA,1531003,ECE,75.30019421,0,INFJ,MSc Digital Systems,MSc in Embedded Systems,Startup,Mtech in Electronics Circuit Design,Mtech in Robotics
+ABHAY PRATAP SINGH,1531060,ECE,79.73052475,0,INFP,MSc in Signal processing,Mtech in Robotics,Govt. Job and PSU,JOB in Software Industry,MSc in Embedded Systems
+ABHINAV DWIVEDI,1531017,ECE,82.96205935,0,INTP,MSc in Signal processing,MSc in Embedded Systems,Govt. Job and PSU,Mtech in Robotics,JOB in Software Industry
+Abhinav Gupta,1531083,ECE,77.19547246,0,INFP,Mtech in Electronics Circuit Design,Mtech in Robotics,Govt. Job and PSU,Startup,MSc in Signal processing
+ABHINAV SINGH,1531115,ECE,68.19816157,0,ENTP,Govt. Job and PSU,Mtech in Electronics Circuit Design,MSc Digital Systems,MSc in Signal processing,MSc in Embedded Systems
+ABHINAV TYAGI,1531093,ECE,76.99114934,0,INTJ,MSc in Signal processing,MSc in Embedded Systems,Mtech in Electronics Circuit Design,MSc Digital Systems,Startup
+ABHINEET AGARWAL,1531134,ECE,68.60812886,0,ISTP,Govt. Job and PSU,MSc in Embedded Systems,MSc in Signal processing,Startup,JOB in Software Industry
+ABHISHEK KUMAR BHATNAGAR,1531135,ECE,75.25690813,0,ENTJ,Mtech in Electronics Circuit Design,MSc Digital Systems,MSc in Embedded Systems,MSc in Signal processing,Startup
+ADITI AGARWAL,1531132,ECE,70.1705752,0,ISTP,Mtech in Robotics,Mtech in Electronics Circuit Design,MSc in Signal processing,MSc Digital Systems,Startup
+ADITI GUPTA,1531116,ECE,73.38155777,0,ISTJ,MSc in Signal processing,Mtech in Electronics Circuit Design,MSc Digital Systems,MSc in Embedded Systems,Startup
+ADITYA MISHRA,1531136,ECE,51.09614754,0,INTP,JOB in Software Industry,Different Undergraduate Course,Mtech in Robotics,BSc,Govt. Job and PSU
+Ahmad Ali,1531074,ECE,64.19183182,0,INFP,Govt. Job and PSU,Startup,JOB in Software Industry,MSc in Embedded Systems,Mtech in Robotics
+Akhil Garg,1531138,ECE,70.25076183,0,ENTJ,Startup,Govt. Job and PSU,Mtech in Robotics,MSc in Embedded Systems,MSc in Signal processing
+AKSHAT DWIVEDI,1531089,ECE,69.70650896,0,INFJ,MSc Digital Systems,MSc in Embedded Systems,Govt. Job and PSU,Mtech in Electronics Circuit Design,Startup
+AKSHAT GOEL,1531086,ECE,62.8793426,0,ISTP,MSc in Embedded Systems,Govt. Job and PSU,MSc Digital Systems,Startup,JOB in Software Industry
+AMAN SHARMA,1531114,ECE,61.26460291,0,ENTJ,MSc in Embedded Systems,MSc Digital Systems,Govt. Job and PSU,Mtech in Robotics,JOB in Software Industry
+AMIT KUMAR JAISWAL,1531104,ME,81.26660775,0,ENTJ,MSc in Mineral Science,Mtech in Manufacturing engineering,Mtech in fluidics/ Hydraulics,MBA,JOB in Mechanical Industry
+ANAMIKA VERMA,1531105,ME,70.83590138,0,INFP,Startup,Govt. Job and PSU,Mtech in Manufacturing engineering,MBA,JOB in Software Industry
+ANIL YADAV,1531087,ECE,90.24736936,0,ISFP,MSc in Embedded Systems,MSc in Signal processing,Mtech in Robotics,MSc Digital Systems,MBA
+ANIMESH CHAND,1531120,ECE,65.62997805,0,INTP,MSc in Signal processing,Startup,Mtech in Robotics,Govt. Job and PSU,JOB in Software Industry
+ANJUL SINGH,1531139,ECE,56.71663697,1,ESTP,BSc,MSc in Embedded Systems,JOB in Software Industry,Govt. Job and PSU,Different Undergraduate Course
+ANKIT ANAND,1531095,ECE,61.9955974,0,INTP,Govt. Job and PSU,Startup,MBA,MSc in Signal processing,Mtech in Robotics
+ANKIT KUMAR TOMAR,1531050,ECE,61.09309911,0,ENTJ,Govt. Job and PSU,MSc in Embedded Systems,JOB in Software Industry,Mtech in Robotics,MSc in Signal processing
+ANKIT SACHAN,1531073,ECE,63.01559487,0,ISFJ,MSc Digital Systems,Govt. Job and PSU,MSc in Embedded Systems,Startup,JOB in Software Industry
+ANKIT SRIVASTAVA,1531140,ECE,66.48393809,0,INTJ,Startup,Govt. Job and PSU,MSc in Signal processing,MSc in Embedded Systems,Mtech in Robotics
+ANKITA VERMA,1531123,ECE,81.11867532,0,ISFP,MSc in Signal processing,JOB in Software Industry,MSc in Embedded Systems,Startup,Govt. Job and PSU
+ANSH  BANSAL,1531036,ECE,61.49632531,0,INTJ,MSc in Embedded Systems,Mtech in Robotics,Govt. Job and PSU,JOB in Software Industry,Startup
+ANSHUL KUMAR,1531014,ECE,64.05885365,0,ISFP,JOB in Software Industry,MSc in Embedded Systems,Govt. Job and PSU,Startup,MSc Digital Systems
+Anshuman Shukla,1531080,ECE,61.14296838,0,ENTP,Govt. Job and PSU,JOB in Software Industry,MSc in Embedded Systems,Mtech in Robotics,Different Undergraduate Course
+ANUBHA SINGH,1531041,ECE,69.7157497,0,ISFJ,MSc in Embedded Systems,Mtech in Electronics Circuit Design,Govt. Job and PSU,MSc in Signal processing,Startup
+ANUBHAV YADAV,1531035,ECE,75.86967221,0,INTP,Startup,Mtech in Electronics Circuit Design,Mtech in Robotics,MSc in Signal processing,MBA
+Anupam Pandey,1531101,ECE,61.32866137,0,INTP,MSc in Embedded Systems,Mtech in Robotics,Govt. Job and PSU,JOB in Software Industry,Startup
+ANURAG TRIPATHI,1531142,ECE,44.74922929,1,ENFP,JOB in Software Industry,BSc,Different Undergraduate Course,Mtech in Robotics,Govt. Job and PSU
+ANUSHKA BHARDWAJ,1531143,ECE,75.68060016,0,ENTP,Mtech in Electronics Circuit Design,Startup,MSc Digital Systems,MSc in Signal processing,Mtech in Robotics
+ARJUN RAGHUVANSHI,1531144,ECE,63.95465726,0,INTP,MSc in Embedded Systems,Mtech in Robotics,Govt. Job and PSU,JOB in Software Industry,MSc Digital Systems
+ARPIT SHUKLA,1531108,ECE,64.32421965,0,ENFJ,Startup,Govt. Job and PSU,MSc in Embedded Systems,MSc in Signal processing,Mtech in Robotics
+ARUSHI AGARWAL,1531007,ECE,90.89282574,0,INTJ,JOB in Software Industry,MSc Digital Systems,MSc in Embedded Systems,MSc in Signal processing,Mtech in Robotics
+ASHISH SARSWAT,1531079,ECE,82.48471064,0,INTP,MSc in Signal processing,MBA,Govt. Job and PSU,MSc in Embedded Systems,Mtech in Electronics Circuit Design
+ATISHA SINGH,1521022,ECE,74.65905001,0,ENTP,Mtech in Electronics Circuit Design,Startup,MSc in Embedded Systems,Mtech in Robotics,MSc Digital Systems
+ATUL CHAHAR,1531130,ECE,68.45352596,0,ESTP,MSc in Embedded Systems,Startup,MSc in Signal processing,Govt. Job and PSU,JOB in Software Industry
+AVI YADAV,1531076,ECE,78.70283863,0,INTJ,MSc in Embedded Systems,JOB in Software Industry,Govt. Job and PSU,MSc in Signal processing,Mtech in Robotics
+AVINASH KUMAR,1531099,ECE,71.99991515,0,INTP,MSc Digital Systems,Startup,Govt. Job and PSU,Mtech in Electronics Circuit Design,MSc in Embedded Systems
+Ayush Gupta,1531145,ECE,67.16354585,0,INTJ,Govt. Job and PSU,MSc in Embedded Systems,Startup,MSc in Signal processing,Mtech in Robotics
+AYUSH SINGH,1521047,ECE,48.44600981,0,INFJ,JOB in Software Industry,BSc,Mtech in Robotics,Different Undergraduate Course,Govt. Job and PSU
+AYUSH SINGH,1531146,ECE,71.6802246,0,INFP,JOB in Software Industry,Govt. Job and PSU,Startup,MSc in Embedded Systems,MSc in Signal processing
+Bhawana Mishra,1531147,ECE,76.32832801,0,INFP,MSc in Signal processing,Startup,MSc Digital Systems,Mtech in Robotics,MSc in Embedded Systems
+BHOOMISHTHA .,1531148,ECE,71.88503563,0,INFP,Mtech in Robotics,Startup,MSc Digital Systems,MBA,Mtech in Electronics Circuit Design
+CHANDAN  KUMAR,1531002,ECE,72.6105347,0,INTP,Mtech in Robotics,MSc in Signal processing,Mtech in Electronics Circuit Design,MSc in Embedded Systems,Startup
+CHANDRA DEV .,1531055,ECE,61.0093066,1,INFP,JOB in Software Industry,Govt. Job and PSU,MSc in Embedded Systems,Mtech in Robotics,BSc
+DEEPTI KUMARI,1531149,ECE,83.70512465,0,ENTJ,Govt. Job and PSU,MSc in Signal processing,Mtech in Robotics,MSc in Embedded Systems,MBA
+DEVASHISH GUPTA,1531047,ECE,71.59954702,0,ISFP,MSc Digital Systems,Mtech in Electronics Circuit Design,MSc in Signal processing,MSc in Embedded Systems,Startup
+DHARMENDRA KUMAR CHAUHAN,1531066,ECE,70.06087216,0,INTJ,MSc in Signal processing,Startup,MSc in Embedded Systems,Mtech in Electronics Circuit Design,Mtech in Robotics
+DIKSHANT GUPTA,1531150,ECE,70.60589347,0,INFJ,MSc Digital Systems,Govt. Job and PSU,MSc in Embedded Systems,Startup,MSc in Signal processing
+DIPESH MANGOCH,1531180,ECE,62.65275143,1,INTP,Govt. Job and PSU,MSc in Embedded Systems,JOB in Software Industry,Mtech in Robotics,MSc Digital Systems
+DIVYA DUTTA,1531012,ECE,64.74841784,0,INTP,Govt. Job and PSU,MSc in Signal processing,Startup,Mtech in Robotics,JOB in Software Industry
+DIVYAM SINGH,1531151,ECE,63.49403832,0,INFP,JOB in Software Industry,Govt. Job and PSU,MSc in Embedded Systems,Mtech in Robotics,Startup
+Divyanshu Dixit,1531152,ECE,48.03687396,0,INFJ,JOB in Software Industry,Mtech in Robotics,BSc,Different Undergraduate Course,Govt. Job and PSU
+DIVYANSHU SHUKLA,1531091,ECE,78.96336206,0,ISFJ,Mtech in Electronics Circuit Design,Startup,MSc Digital Systems,Mtech in Robotics,MSc in Embedded Systems
+DIWAKAR SINGH,1531126,ECE,70.08456299,0,ISTP,MSc in Signal processing,Startup,MSc in Embedded Systems,Mtech in Electronics Circuit Design,Govt. Job and PSU
+EESHANK KARNWAL,1531153,ECE,67.34120722,0,INTJ,MSc in Signal processing,Mtech in Robotics,Govt. Job and PSU,MSc in Embedded Systems,JOB in Software Industry
+EKTA TIWARI,1531015,ECE,69.9625502,0,ISFJ,Mtech in Electronics Circuit Design,Mtech in Robotics,MSc in Embedded Systems,MBA,MSc Digital Systems
+GAURAV KUMAR .,1531067,ECE,67.33182516,0,INTJ,Govt. Job and PSU,Startup,MSc in Signal processing,Mtech in Electronics Circuit Design,MSc in Embedded Systems
+GAURAV PARIHAR,1531021,ECE,69.83723585,0,INTJ,MSc in Embedded Systems,Mtech in Electronics Circuit Design,Govt. Job and PSU,MSc Digital Systems,Startup
+GAUTAM  GUPTA,1531068,ECE,70.93143816,0,INTP,Mtech in Robotics,MSc in Embedded Systems,MSc in Signal processing,Mtech in Electronics Circuit Design,Startup
+HIMANSHU SHUKLA,1531052,ECE,64.62765712,0,ESFP,Govt. Job and PSU,JOB in Software Industry,Startup,Mtech in Robotics,MSc in Signal processing
+Himanshu Tomar,1531154,ECE,73.20415421,0,INFJ,MSc in Embedded Systems,Startup,Govt. Job and PSU,MSc in Signal processing,MSc Digital Systems
+Ishita Gupta,1531155,ECE,69.50247651,0,INTP,MSc in Embedded Systems,MSc Digital Systems,Mtech in Electronics Circuit Design,Govt. Job and PSU,Startup
+KANIKA SINGHAL,1531118,ECE,76.97429809,0,ISTJ,JOB in Software Industry,Mtech in Robotics,MSc in Embedded Systems,Govt. Job and PSU,MSc in Signal processing
+Kartik Rohilla,1531082,ECE,60.40191827,0,ISTP,Govt. Job and PSU,MSc in Embedded Systems,JOB in Software Industry,MSc Digital Systems,Mtech in Robotics
+KARTIKEY GUPTA,1531156,ECE,79.61251632,0,ENFJ,Govt. Job and PSU,MSc in Embedded Systems,Mtech in Robotics,MSc in Signal processing,Startup
+KAVYA AGARWAL,1531157,ECE,60.02204045,0,ESTP,MSc in Embedded Systems,Govt. Job and PSU,JOB in Software Industry,MSc Digital Systems,Mtech in Robotics
+KESHAV MATHUR,1531158,ECE,76.09307774,0,INFP,Startup,MSc Digital Systems,Mtech in Electronics Circuit Design,MSc in Embedded Systems,JOB in Software Industry
+LAKSH GARG,1531159,ECE,77.87787948,0,INTP,MSc Digital Systems,Mtech in Electronics Circuit Design,Startup,MSc in Signal processing,MSc in Embedded Systems
+Laveena Agarwal,1531160,ECE,71.01207773,0,INTP,Mtech in Electronics Circuit Design,MSc Digital Systems,Mtech in Robotics,MSc in Signal processing,MSc in Embedded Systems
+Lucky Dixit,1531098,ECE,66.94586634,0,INFP,Startup,MSc in Embedded Systems,Govt. Job and PSU,MSc in Signal processing,MBA
+Manasvi Goel,1531161,ECE,75.38429836,0,INTP,Startup,Mtech in Robotics,Mtech in Electronics Circuit Design,MSc in Signal processing,MSc in Embedded Systems
+Mohammad Nofil .,1531162,ECE,50.27257216,0,ESFJ,BSc,JOB in Software Industry,Mtech in Robotics,Different Undergraduate Course,MSc in Embedded Systems
+MOHIT SINGH,1531001,ECE,62.21987062,0,ESFP,MSc in Embedded Systems,Govt. Job and PSU,MSc Digital Systems,JOB in Software Industry,Startup
+MONAL KANSAL,1531163,ECE,86.66259569,0,ENTP,Govt. Job and PSU,Mtech in Robotics,MSc Digital Systems,MSc in Embedded Systems,MSc in Signal processing
+Monika Singh,1531075,ECE,64.93402777,0,ENFP,Govt. Job and PSU,MSc in Signal processing,MSc in Embedded Systems,Startup,Mtech in Robotics
+MRIDU BHATNAGAR,1531122,ECE,86.60850959,0,INTP,MSc in Signal processing,Mtech in Robotics,MSc in Embedded Systems,Govt. Job and PSU,MSc Digital Systems
+NEERAJ NEGI,1531164,ECE,77.49840693,0,ISTP,Mtech in Robotics,MSc in Signal processing,Mtech in Electronics Circuit Design,MSc in Embedded Systems,Startup
+NEHA GARG,1531165,ECE,71.86101502,0,INTJ,MSc in Embedded Systems,Startup,Mtech in Electronics Circuit Design,MSc in Signal processing,MSc Digital Systems
+NIHARIKA KUMARI,1531064,ECE,76.69018055,0,ISFP,Mtech in Robotics,Govt. Job and PSU,Mtech in Electronics Circuit Design,MSc in Embedded Systems,MSc in Signal processing
+Nikhil mohan Verma,1531166,ECE,58.25890755,0,ENTP,JOB in Software Industry,Govt. Job and PSU,MSc in Embedded Systems,Different Undergraduate Course,BSc
+NIMISHA SRIVASTAVA,1531043,ECE,79.72380888,0,ESFP,Govt. Job and PSU,Startup,MSc in Embedded Systems,Mtech in Electronics Circuit Design,MSc in Signal processing
+NITIN SAINI,1531167,CSE,87.99899446,0,ISTJ,Startup,Govt. Job and PSU,JOB in Software Industry,MS in Algorithms,Mtech in Data Analytics
+NITISH KUMAR,1531045,ECE,62.96615716,0,ESFP,JOB in Software Industry,Mtech in Robotics,Startup,MSc in Signal processing,MSc in Embedded Systems
+Pankaj Gupta,1531088,ECE,63.44951823,0,INTJ,JOB in Software Industry,MSc in Embedded Systems,Govt. Job and PSU,Startup,Mtech in Robotics
+PARIT KUMAR TOMAR,1531046,ECE,78.77732433,0,ENTP,MSc in Signal processing,MSc in Embedded Systems,Govt. Job and PSU,Mtech in Electronics Circuit Design,Mtech in Robotics
+Pooja Kumari,1531129,ECE,63.2740267,0,INTP,Startup,MSc in Signal processing,Govt. Job and PSU,MSc in Embedded Systems,Mtech in Robotics
+POORNIMA BASSI,1531168,IT,70.67039144,0,ENFP,MS in Environment and Ecology,Post Grad in Machine Learning and Statistics,JOB in Software Industry,Govt. Job and PSU,MSc in Applied Science and Mathematics
+PRACHI AGARWAL,1531169,ECE,77.67699554,0,ISTP,MSc in Embedded Systems,Govt. Job and PSU,MSc in Signal processing,JOB in Software Industry,Startup
+PRAGYA VERMA,1531049,ECE,68.2808829,0,ENFP,MSc Digital Systems,MSc in Signal processing,Startup,MSc in Embedded Systems,Govt. Job and PSU
+PRAKHAR DIXIT,1531171,ECE,72.97091182,0,INTP,MSc Digital Systems,Govt. Job and PSU,MSc in Embedded Systems,Mtech in Electronics Circuit Design,Startup
+PRAKHAR GUPTA,1531172,ECE,69.7844322,0,ISFJ,Govt. Job and PSU,Startup,MSc in Embedded Systems,MBA,MSc in Signal processing
+PRASHANT BHARDWAJ,1531173,ECE,72.84095827,0,ISFJ,MSc in Embedded Systems,Mtech in Robotics,Mtech in Electronics Circuit Design,Startup,MSc Digital Systems
+PRASHANT RAO,1531061,ECE,59.74114121,0,INTP,MSc in Embedded Systems,Govt. Job and PSU,JOB in Software Industry,Mtech in Robotics,MSc Digital Systems
+PRASOON JAKHMOLA,1531097,ECE,73.617535,0,ENFJ,MSc Digital Systems,MSc in Embedded Systems,Mtech in Electronics Circuit Design,Startup,Mtech in Robotics
+PRATEEK SHARMA,1531174,IT,64.59978532,0,ESTP,Mtech in Cloud Computing,Govt. Job and PSU,MBA,MS in Environment and Ecology,MS in Computer Architecture
+Pratyush Kumar Singh,1531094,ECE,64.11829481,0,INTP,Mtech in Robotics,MSc in Embedded Systems,Govt. Job and PSU,Startup,JOB in Software Industry
+PRAVIN KUMAR,1531010,ECE,81.64708259,0,ENFP,MSc in Embedded Systems,JOB in Software Industry,MSc in Signal processing,Govt. Job and PSU,Mtech in Robotics
+PRERNA SINHA,1531175,ECE,65.8199674,0,INTP,Govt. Job and PSU,MSc in Signal processing,MBA,Mtech in Robotics,Startup
+PRINCE RAJPUT,1531176,ECE,65.6532744,0,ENTP,MSc in Embedded Systems,MSc Digital Systems,Govt. Job and PSU,Startup,Mtech in Robotics
+PRIYANSHU GUPTA,1531121,ECE,71.28470971,0,ISTJ,Startup,MSc in Embedded Systems,Govt. Job and PSU,MSc in Signal processing,Mtech in Electronics Circuit Design
+PUNEET GOSWAMI,1531112,ECE,66.97762064,0,ESTP,MSc in Signal processing,Startup,MSc in Embedded Systems,Govt. Job and PSU,Mtech in Robotics
+PURNIMA SINGH,1531058,ECE,74.42424527,0,ESTP,MSc in Embedded Systems,Govt. Job and PSU,Mtech in Robotics,Mtech in Electronics Circuit Design,MSc in Signal processing
+RAHUL CHAUDHARY,1531103,ECE,56.85467752,0,ENTP,JOB in Software Industry,Govt. Job and PSU,MSc in Embedded Systems,Different Undergraduate Course,Mtech in Robotics
+Raj Singh Chauhan,1531124,ECE,60.72166002,0,INFP,MSc in Embedded Systems,Govt. Job and PSU,JOB in Software Industry,BSc,Different Undergraduate Course
+RAJANI SINGH,1531078,ECE,78.88987143,0,ENFJ,Govt. Job and PSU,MBA,MSc in Signal processing,Mtech in Robotics,Mtech in Electronics Circuit Design
+RAJUL GUPTA,1531177,ECE,62.31191368,0,ENFP,Govt. Job and PSU,JOB in Software Industry,MSc in Embedded Systems,BSc,Different Undergraduate Course
+RIPUDAMAN SINGH,1531016,ECE,63.42782942,0,INFP,MSc in Embedded Systems,Govt. Job and PSU,JOB in Software Industry,MSc in Signal processing,Startup
+RISHABH DEV SINGH,1531042,ECE,68.14721603,0,ENFP,Govt. Job and PSU,MSc in Embedded Systems,JOB in Software Industry,MSc in Signal processing,Startup
+RISHABH MAURYA,1531127,ECE,63.283426,0,INTP,MSc in Embedded Systems,Mtech in Robotics,Govt. Job and PSU,Startup,JOB in Software Industry
+RISHU JAINTH,1531033,ECE,58.40912046,0,ENFP,MSc in Embedded Systems,Govt. Job and PSU,JOB in Software Industry,MSc Digital Systems,BSc
+RITWIK SINHA,1531027,ECE,83.55678235,0,INTP,MSc Digital Systems,MSc in Signal processing,Govt. Job and PSU,Mtech in Robotics,MSc in Embedded Systems
+SACHIN CHOUDHARY,1531026,ECE,71.71765205,0,ESFJ,MSc Digital Systems,MSc in Embedded Systems,Mtech in Electronics Circuit Design,Startup,MSc in Signal processing
+SAMARTH VERMA,1531029,ECE,67.98091363,0,ENTP,MSc in Embedded Systems,Startup,Mtech in Robotics,Govt. Job and PSU,MSc in Signal processing
+SAMIA KHAN,1531178,ECE,72.97845708,0,INFP,Mtech in Electronics Circuit Design,JOB in Software Industry,MSc in Embedded Systems,MSc Digital Systems,Mtech in Robotics
+SAMIDHA WARUDI,1531179,ECE,77.61532933,0,INTP,MSc in Embedded Systems,MSc Digital Systems,JOB in Software Industry,Mtech in Robotics,MSc in Signal processing
+SANIYA KHAN,1531199,ECE,69.86642162,0,ENTP,Mtech in Electronics Circuit Design,MSc in Embedded Systems,Govt. Job and PSU,MSc in Signal processing,MSc Digital Systems
+SANYA Mishra,1531181,ECE,62.21788983,0,INTJ,MSc in Embedded Systems,Govt. Job and PSU,Mtech in Robotics,MSc Digital Systems,Startup
+SAUMYA  SINGH,1531051,ECE,77.73593163,0,ISFJ,Mtech in Electronics Circuit Design,MSc in Signal processing,JOB in Software Industry,Mtech in Robotics,MSc in Embedded Systems
+SHAGUN GARG,1531182,ECE,56.83016024,0,ENTJ,BSc,JOB in Software Industry,Different Undergraduate Course,Mtech in Robotics,Govt. Job and PSU
+SHAMBHAVI  SINGH,1531183,ECE,63.3909038,0,ENTP,Mtech in Robotics,MBA,MSc in Signal processing,Startup,JOB in Software Industry
+SHATAKSHI MOHAN,1513058,ECE,67.31934597,0,INTP,Startup,Govt. Job and PSU,MSc in Embedded Systems,MBA,JOB in Software Industry
+SHIVAM CHAUDHARY,1531184,ECE,67.12387373,0,ENTJ,MSc in Embedded Systems,Govt. Job and PSU,Mtech in Robotics,MSc Digital Systems,JOB in Software Industry
+SHIVAM GUPTA,1531109,ECE,74.44201963,0,ESFJ,Mtech in Electronics Circuit Design,Govt. Job and PSU,MSc Digital Systems,Startup,MSc in Embedded Systems
+SHIVAM KUMAR GUPTA,1531110,ECE,79.79784882,0,ESFP,MSc in Embedded Systems,MSc in Signal processing,Govt. Job and PSU,Mtech in Robotics,Mtech in Electronics Circuit Design
+SHIVAM SHARMA,1531185,ECE,64.32875117,0,INFP,MSc in Signal processing,Startup,Mtech in Robotics,MSc in Embedded Systems,Govt. Job and PSU
+Shivani Mishra,1531107,ECE,65.88343361,0,INTP,Mtech in Robotics,MSc in Embedded Systems,Govt. Job and PSU,JOB in Software Industry,MSc in Signal processing
+SHREYANSH GUPTA,1531069,ECE,59.17279919,0,INFP,Govt. Job and PSU,MSc in Embedded Systems,JOB in Software Industry,Mtech in Robotics,MSc Digital Systems
+SHUBHAM BAJPAI,1531038,CSE,65.48745326,0,ISTP,Startup,Mtech in Artificial Intelligence,Mtech in Data Analytics,MS in Algorithms,MBA
+SHUBHAM CHAUDHARY,1531186,ECE,65.7842668,0,ISTJ,Startup,MSc in Signal processing,Govt. Job and PSU,Mtech in Robotics,MSc in Embedded Systems
+SHUBHAM CHAUHAN,1531011,ECE,78.55360998,0,ENTP,MSc in Signal processing,MSc in Embedded Systems,JOB in Software Industry,MBA,Govt. Job and PSU
+Shubham Gupta,1531090,ECE,66.23854812,0,ENTP,MSc in Signal processing,Mtech in Robotics,Govt. Job and PSU,Startup,MSc in Embedded Systems
+SHUBHAM KUMAR,1531072,ECE,62.8318482,1,INFP,Mtech in Robotics,JOB in Software Industry,MSc in Embedded Systems,Govt. Job and PSU,MSc Digital Systems
+SHUBHAM VARSHNEY,1531187,ECE,77.67459545,0,ISFP,MSc in Embedded Systems,Mtech in Robotics,MSc in Signal processing,JOB in Software Industry,Startup
