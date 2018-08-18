@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.harsh.fetch2.Fetch">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <Button
+            android:id="@+id/addPredictionDetails"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/addStudentsDetails"
+            android:layout_alignLeft="@+id/addStudentsDetails"
+            android:layout_alignStart="@+id/addStudentsDetails"
+            android:layout_marginBottom="63dp"
+            android:onClick="onClick"
+            android:text="Add Prediction Data" />
+
+        <Button
+            android:id="@+id/addStudentsDetails"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/viewPredictionDetails"
+            android:layout_alignParentTop="true"
+            android:layout_alignStart="@+id/viewPredictionDetails"
+            android:layout_marginTop="157dp"
+            android:onClick="onClick"
+            android:text="Add Student Data" />
+
+        <Button
+            android:id="@+id/viewPredictionDetails"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/addStudentsDetails"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="33dp"
+            android:onClick="onClick"
+            android:text="View Prediction Data" />
+
+        <Button
+            android:id="@+id/viewStudentDetails"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/viewPredictionDetails"
+            android:layout_alignStart="@+id/viewPredictionDetails"
+            android:layout_below="@+id/viewPredictionDetails"
+            android:layout_marginTop="33dp"
+            android:onClick="onClick"
+            android:text="View Student Data" />
+
+        <Button
+            android:id="@+id/studentLogin"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/viewPredictionDetails"
+            android:layout_alignStart="@+id/viewPredictionDetails"
+            android:layout_below="@+id/viewStudentDetails"
+            android:layout_marginTop="33dp"
+            android:onClick="onClick"
+            android:text="Student Login" />
+
+        <Button
+            android:id="@+id/addTeacherDetails"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/viewPredictionDetails"
+            android:layout_alignStart="@+id/viewPredictionDetails"
+            android:layout_below="@+id/studentLogin"
+            android:layout_marginTop="33dp"
+            android:onClick="onClick"
+            android:text="Add Teacher Details" />
+
+        <Button
+            android:id="@+id/teacherLogin"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/viewPredictionDetails"
+            android:layout_alignStart="@+id/viewPredictionDetails"
+            android:layout_below="@+id/addTeacherDetails"
+            android:layout_marginTop="33dp"
+            android:onClick="onClick"
+            android:text="Teacher Login" />
+
+
+    </RelativeLayout>
+
+
+
+</ScrollView>
