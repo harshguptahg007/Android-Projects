@@ -1,0 +1,117 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /media/harsh/New Volume/AndroidProjects/Pets/app/src/main/AndroidManifest.xml:3:1-39:12
+INJECTED from /media/harsh/New Volume/AndroidProjects/Pets/app/src/main/AndroidManifest.xml:3:1-39:12
+INJECTED from /media/harsh/New Volume/AndroidProjects/Pets/app/src/main/AndroidManifest.xml:3:1-39:12
+INJECTED from /media/harsh/New Volume/AndroidProjects/Pets/app/src/main/AndroidManifest.xml:3:1-39:12
+MERGED from [com.android.support:design:24.1.1] /home/harsh/.gradle/caches/transforms-1/files-1.1/design-24.1.1.aar/bc431c8c4a1ed613358c8f88c9d452a6/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:24.1.1] /home/harsh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.1.1.aar/9190a2b8d42691cb63cefd228741cd96/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:24.1.1] /home/harsh/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-24.1.1.aar/27884b266d75b4dbab6b4abb5f0a787a/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:24.1.1] /home/harsh/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-24.1.1.aar/88a0aebac7ff1bf62acb6c0100f13a3a/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:recyclerview-v7:24.1.1] /home/harsh/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-24.1.1.aar/ba60a37c218fe3ecd8874ffe6887257a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:24.1.1] /home/harsh/.gradle/caches/transforms-1/files-1.1/support-v4-24.1.1.aar/2bcb04a03e8b255f6266a6232b1e1ea6/AndroidManifest.xml:17:1-27:12
+INJECTED from /media/harsh/New Volume/AndroidProjects/Pets/app/src/main/AndroidManifest.xml:3:1-39:12
+INJECTED from /media/harsh/New Volume/AndroidProjects/Pets/app/src/main/AndroidManifest.xml:3:1-39:12
+INJECTED from /media/harsh/New Volume/AndroidProjects/Pets/app/src/main/AndroidManifest.xml:3:1-39:12
+	package
+		ADDED from /media/harsh/New Volume/AndroidProjects/Pets/app/src/main/AndroidManifest.xml:3:11-45
+		INJECTED from /media/harsh/New Volume/AndroidProjects/Pets/app/src/main/AndroidManifest.xml
+		INJECTED from /media/harsh/New Volume/AndroidProjects/Pets/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /media/harsh/New Volume/AndroidProjects/Pets/app/src/main/AndroidManifest.xml
+		ADDED from /media/harsh/New Volume/AndroidProjects/Pets/app/src/main/AndroidManifest.xml:3:1-39:12
+		INJECTED from /media/harsh/New Volume/AndroidProjects/Pets/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /media/harsh/New Volume/AndroidProjects/Pets/app/src/main/AndroidManifest.xml
+		ADDED from /media/harsh/New Volume/AndroidProjects/Pets/app/src/main/AndroidManifest.xml:3:1-39:12
+		INJECTED from /media/harsh/New Volume/AndroidProjects/Pets/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /media/harsh/New Volume/AndroidProjects/Pets/app/src/main/AndroidManifest.xml:4:11-69
+application
+ADDED from /media/harsh/New Volume/AndroidProjects/Pets/app/src/main/AndroidManifest.xml:6:5-37:19
+MERGED from [com.android.support:design:24.1.1] /home/harsh/.gradle/caches/transforms-1/files-1.1/design-24.1.1.aar/bc431c8c4a1ed613358c8f88c9d452a6/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:24.1.1] /home/harsh/.gradle/caches/transforms-1/files-1.1/design-24.1.1.aar/bc431c8c4a1ed613358c8f88c9d452a6/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:24.1.1] /home/harsh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.1.1.aar/9190a2b8d42691cb63cefd228741cd96/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:24.1.1] /home/harsh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.1.1.aar/9190a2b8d42691cb63cefd228741cd96/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.1.1] /home/harsh/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-24.1.1.aar/27884b266d75b4dbab6b4abb5f0a787a/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.1.1] /home/harsh/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-24.1.1.aar/27884b266d75b4dbab6b4abb5f0a787a/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.1.1] /home/harsh/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-24.1.1.aar/88a0aebac7ff1bf62acb6c0100f13a3a/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:24.1.1] /home/harsh/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-24.1.1.aar/88a0aebac7ff1bf62acb6c0100f13a3a/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v4:24.1.1] /home/harsh/.gradle/caches/transforms-1/files-1.1/support-v4-24.1.1.aar/2bcb04a03e8b255f6266a6232b1e1ea6/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.1.1] /home/harsh/.gradle/caches/transforms-1/files-1.1/support-v4-24.1.1.aar/2bcb04a03e8b255f6266a6232b1e1ea6/AndroidManifest.xml:25:5-20
+	android:supportsRtl
+		ADDED from /media/harsh/New Volume/AndroidProjects/Pets/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /media/harsh/New Volume/AndroidProjects/Pets/app/src/main/AndroidManifest.xml:9:9-41
+	android:icon
+		ADDED from /media/harsh/New Volume/AndroidProjects/Pets/app/src/main/AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from /media/harsh/New Volume/AndroidProjects/Pets/app/src/main/AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from /media/harsh/New Volume/AndroidProjects/Pets/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.android.pets.CatalogActivity
+ADDED from /media/harsh/New Volume/AndroidProjects/Pets/app/src/main/AndroidManifest.xml:12:9-19:20
+	android:label
+		ADDED from /media/harsh/New Volume/AndroidProjects/Pets/app/src/main/AndroidManifest.xml:14:13-45
+	android:name
+		ADDED from /media/harsh/New Volume/AndroidProjects/Pets/app/src/main/AndroidManifest.xml:13:13-44
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /media/harsh/New Volume/AndroidProjects/Pets/app/src/main/AndroidManifest.xml:15:13-18:29
+action#android.intent.action.MAIN
+ADDED from /media/harsh/New Volume/AndroidProjects/Pets/app/src/main/AndroidManifest.xml:16:17-68
+	android:name
+		ADDED from /media/harsh/New Volume/AndroidProjects/Pets/app/src/main/AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /media/harsh/New Volume/AndroidProjects/Pets/app/src/main/AndroidManifest.xml:17:17-76
+	android:name
+		ADDED from /media/harsh/New Volume/AndroidProjects/Pets/app/src/main/AndroidManifest.xml:17:27-74
+activity#com.example.android.pets.EditorActivity
+ADDED from /media/harsh/New Volume/AndroidProjects/Pets/app/src/main/AndroidManifest.xml:20:9-28:20
+	android:parentActivityName
+		ADDED from /media/harsh/New Volume/AndroidProjects/Pets/app/src/main/AndroidManifest.xml:23:13-58
+	android:theme
+		ADDED from /media/harsh/New Volume/AndroidProjects/Pets/app/src/main/AndroidManifest.xml:22:13-47
+	android:name
+		ADDED from /media/harsh/New Volume/AndroidProjects/Pets/app/src/main/AndroidManifest.xml:21:13-43
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /media/harsh/New Volume/AndroidProjects/Pets/app/src/main/AndroidManifest.xml:25:13-27:52
+	android:value
+		ADDED from /media/harsh/New Volume/AndroidProjects/Pets/app/src/main/AndroidManifest.xml:27:17-49
+	android:name
+		ADDED from /media/harsh/New Volume/AndroidProjects/Pets/app/src/main/AndroidManifest.xml:26:17-63
+provider#com.example.android.pets.data.PetProvider
+ADDED from /media/harsh/New Volume/AndroidProjects/Pets/app/src/main/AndroidManifest.xml:30:9-33:40
+	android:authorities
+		ADDED from /media/harsh/New Volume/AndroidProjects/Pets/app/src/main/AndroidManifest.xml:32:13-59
+	android:exported
+		ADDED from /media/harsh/New Volume/AndroidProjects/Pets/app/src/main/AndroidManifest.xml:33:13-37
+	android:name
+		ADDED from /media/harsh/New Volume/AndroidProjects/Pets/app/src/main/AndroidManifest.xml:31:13-45
+uses-sdk
+INJECTED from /media/harsh/New Volume/AndroidProjects/Pets/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /media/harsh/New Volume/AndroidProjects/Pets/app/src/main/AndroidManifest.xml
+INJECTED from /media/harsh/New Volume/AndroidProjects/Pets/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:24.1.1] /home/harsh/.gradle/caches/transforms-1/files-1.1/design-24.1.1.aar/bc431c8c4a1ed613358c8f88c9d452a6/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:24.1.1] /home/harsh/.gradle/caches/transforms-1/files-1.1/design-24.1.1.aar/bc431c8c4a1ed613358c8f88c9d452a6/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:24.1.1] /home/harsh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.1.1.aar/9190a2b8d42691cb63cefd228741cd96/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:24.1.1] /home/harsh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.1.1.aar/9190a2b8d42691cb63cefd228741cd96/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:24.1.1] /home/harsh/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-24.1.1.aar/27884b266d75b4dbab6b4abb5f0a787a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:24.1.1] /home/harsh/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-24.1.1.aar/27884b266d75b4dbab6b4abb5f0a787a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.1.1] /home/harsh/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-24.1.1.aar/88a0aebac7ff1bf62acb6c0100f13a3a/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:24.1.1] /home/harsh/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-24.1.1.aar/88a0aebac7ff1bf62acb6c0100f13a3a/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:24.1.1] /home/harsh/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-24.1.1.aar/ba60a37c218fe3ecd8874ffe6887257a/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:24.1.1] /home/harsh/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-24.1.1.aar/ba60a37c218fe3ecd8874ffe6887257a/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:24.1.1] /home/harsh/.gradle/caches/transforms-1/files-1.1/support-v4-24.1.1.aar/2bcb04a03e8b255f6266a6232b1e1ea6/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:24.1.1] /home/harsh/.gradle/caches/transforms-1/files-1.1/support-v4-24.1.1.aar/2bcb04a03e8b255f6266a6232b1e1ea6/AndroidManifest.xml:21:5-23:54
+INJECTED from /media/harsh/New Volume/AndroidProjects/Pets/app/src/main/AndroidManifest.xml
+INJECTED from /media/harsh/New Volume/AndroidProjects/Pets/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.1.1] /home/harsh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.1.1.aar/9190a2b8d42691cb63cefd228741cd96/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /media/harsh/New Volume/AndroidProjects/Pets/app/src/main/AndroidManifest.xml
+		ADDED from /media/harsh/New Volume/AndroidProjects/Pets/app/src/main/AndroidManifest.xml
+		INJECTED from /media/harsh/New Volume/AndroidProjects/Pets/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /media/harsh/New Volume/AndroidProjects/Pets/app/src/main/AndroidManifest.xml
+		ADDED from /media/harsh/New Volume/AndroidProjects/Pets/app/src/main/AndroidManifest.xml
+		INJECTED from /media/harsh/New Volume/AndroidProjects/Pets/app/src/main/AndroidManifest.xml

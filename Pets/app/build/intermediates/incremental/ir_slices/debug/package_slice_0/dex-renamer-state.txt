@@ -1,0 +1,4 @@
+#Thu Aug 23 19:56:29 IST 2018
+base.0=/media/harsh/New Volume/AndroidProjects/Pets/app/build/intermediates/transforms/dexMerger/debug/1
+path.0=classes.dex
+renamed.0=classes.dex
